@@ -1,0 +1,2490 @@
+
+
+===== 123444-2.html =====
+TITLE: 123444 — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/123444-2/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', '123444')]
+IMGS(4), no-alt: 4
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+123444 — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+123444
+Алкогольные напитки и пиво
+Alcoholic drinks and beer 
+Draft beer
+Stella Artois
+light
+0,3 l.
+290 
+0,5 l.
+390 
+Cветлое пиво низового брожения, впервые сваренное в бельгийском городе Лёвен в 1926 году. В настоящее время варится по лицензии компании AB InBev.
+Liquor
+Cointreau
+50 ml.
+550 
+Французский крепкий прозрачный ликёр с ароматом корочек сладких и горьких апельсинов. Крепость 40%. Производится компанией Rémy Cointreau.
+33
+ итальянский (а также испанский) ликёр с ароматом аниса.
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== 3019-2.html =====
+TITLE: Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/3019-2/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', '')]
+IMGS(1), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Салат по-дере­венски
+390
+Овощ­ной салат «Вене­ция»
+390
+Салат «Грече­ский»
+520
+Салат из кури­ной печени с белы­ми грибами
+650
+Салат «Це­зарь» с кури­ным филе
+570
+Салат «Це­зарь» с кревет­ками
+690
+Тёплый салат «Русти­кана»
+690
+Салат «Порто­белло»
+490
+Салат со слабо­солёной сёмгой
+590
+Тёплый салат из море­продук­тов
+870
+Салат по-деревенски
+390
+Салат Греческий
+520
+Table division
+Table division
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== delivery.html =====
+TITLE: Доставка — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/delivery/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Доставка')]
+IMGS(1), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/', 'https://www.delivery-club.ru/srv/Venetsia_msk']
+TEXT:
+Доставка — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Доставка
+Доставку осуществляет наш партнёр — Delivery-Club
+Обращаем Ваше внима­ние, что меню наших рестора­нов незначитель­но различает­ся, а некоторые блюда из меню мы не доставля­ем. Актуальную информацию о блюдах и ценах в меню Вы сможете найти на сайте Delivery-Club ( delivery-club.ru/srv/Venetsia_msk )
+Время работы доставки:
+12:00 — 21:40
+ежедневно
+ Оформить заказ
+При оформлении доставки через сайт или мобильное приложе­ние Delivery-Club выбор конкретно­го ресторана происходит автоматически и зависит от указанного Вами адреса доставки.
+Максимальное время передачи приготовленных блюд курьеру Delivery-Club с момента поступле­ния заказа составляет 20 минут. В случае возникновения проблем с доставкой, свяжитесь с контакт-центром Delivery-Club или с администрацией ресторана.
+В моменты очень большой загруженности ресторана доставка не осуществляется. Мы прилагаем максимум усилий, чтобы все наши посетители оставались довольны. Убедительная просьба отнестись к этому с пониманием.
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== guest.html =====
+TITLE: Напишите нам … — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/guest/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Напишите нам …'), ('h3', 'Добавить комментарий Отменить ответ')]
+IMGS(2), no-alt: 2
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Напишите нам … — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Напишите нам …
+Добавить комментарий Отменить ответ
+Ваш адрес email не будет опубликован. Обязательные поля помечены *
+Комментарий * 
+Имя * 
+Email * 
+Сайт 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== home.html =====
+TITLE: Траттория Венеция — Уголок Италии в Москве
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Траттория Венеция'), ('h4', 'Венеция\xa0— один из\xa0самых потрясающих городов на\xa0Земле. Стоит лишь вспомнить название, как у\xa0нас перед глазами возникает образ уютных улочек, разделённых водными каналами. Своей красотой\xa0и духом утонченности это место притягивает не\xa0только романтиков, но\xa0и настоящих гурманов, жаждущих попробовать всю исключительность местной кухни. Открытое всем сердце Италии с\xa0её изысканным подходом в\xa0кулинарии ждёт Вас у\xa0себя дома в\xa0Траттории «Венеция».')]
+IMGS(6), no-alt: 6
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Траттория Венеция — Уголок Италии в Москве
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Траттория Венеция
+Венеция — один из самых потрясающих городов на Земле. Стоит лишь вспомнить название, как у нас перед глазами возникает образ уютных улочек, разделённых водными каналами. Своей красотой и духом утонченности это место притягивает не только романтиков, но и настоящих гурманов, жаждущих попробовать всю исключительность местной кухни. Открытое всем сердце Италии с её изысканным подходом в кулинарии ждёт Вас у себя дома в Траттории «Венеция». 
+Траттория на Страстном 
++7 (495) 650-60-09 
+Москва, Страстной бульвар, дом 4, строение 3 
+Траттория на 1-м этаже (Страстной) 
++7 (495) 694-58-62 
+Москва, Страстной бульвар, дом 4, строение 3 
+Траттория на Столешниковом 
++7 (495) 621-35-35 
+Москва, Столешников переулок, дом 9, строение 3 
+Траттория на Маяковской 
++7 (499) 250-28-88 
+Москва, 4-я Тверская-Ямская улица, дом 2/11 
+ Напишите нам …обо всём, кроме бронирования
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu.html =====
+TITLE: Меню — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню')]
+IMGS(3), no-alt: 3
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню
+Уважаемые Дамы и Господа! 
+Мы рады предложить Вам 20% скидку на всё меню с 11:00 до 16:00 по будним дням (с понедельника по пятницу)
+We are happy to offer you a 20% discount on the entire menu from 11:00 to 16:00 on weekdays (monday to friday)
+Основное меню 
+ СалатыSalads
+ Холодные закускиFor starter (cold)
+ Горячие закускиFor starter (hot)
+ БрускеттыBruschettas
+ СупыSoups
+ ПастаPasta
+ ЛазаньяLasagna
+ РизоттоRisotto
+ Рыбные блюдаFish & Seafoods
+ Мясные блюдаMeat
+ ГарнирыGarnish
+ ФокаччаFocaccia
+ ПиццаPizza
+ ДесертыDesserts
+Напитки 
+ НапиткиDrinks
+ Барная картаBar
+ Винная картаWines
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_bars.html =====
+TITLE: Барная карта — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/bars/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Барная карта'), ('h3', 'Алкогольные напитки\xa0и пиво \nAlcoholic drinks\xa0and beer'), ('h4', 'Aperitif \nMartini Bianco \n\n\n\n100 ml. \n\n\n670'), ('h4', 'Digestiv \nAmaro Montenegro \n\n\n\n50 ml. \n\n\n790'), ('h4', 'Digestiv \nJagermeister \n\n\n\n50 ml. \n\n\n650'), ('h4', 'Cognac \nGautier V.S. \n\n\n\n50 ml. \n\n\n890'), ('h4', 'Cognac \nGautier V.S.O.P. \n\n\n\n50 ml. \n\n\n1090'), ('h4', 'Brandy \nVecchia Romagna \n\n\n\n50 ml. \n\n\n590'), ('h4', 'Whiskey \nTullamore Dew \n\n\n\n50 ml. \n\n\n750'), ('h4', 'Whiskey \nJack Daniel’s \n\n\n\n50 ml. \n\n\n750'), ('h4', 'Whiskey \nChivas Regal \n\n\n\n50 ml. \n\n\n890'), ('h4', 'Tequila \nJose Cuervo silver\n\n\n\n50 ml. \n\n\n650'), ('h4', 'Cognac \nMartell V.S. \n\n\n\n50 ml. \n\n\n990'), ('h4', 'Cognac \nMartell V.S.O.P. \n\n\n\n50 ml. \n\n\n1290'), ('h4', 'Whiskey \nJameson \n\n\n\n50 ml. \n\n\n750'), ('h4', 'Liquor \nBaileys \n\n\n\n50 ml. \n\n\n650'), ('h4', 'Liquor \nCointreau \n\n\n\n50 ml. \n\n\n650'), ('h4', 'Liquor \nSambuca \n\n\n\n50 ml. \n\n\n490'), ('h4', 'Liquor \nKahlua \n\n\n\n50 ml. \n\n\n590'), ('h4', 'Liquor \nLimoncello \n\n\n\n50 ml. \n\n\n490')]
+IMGS(29), no-alt: 29
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Барная карта — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Барная карта
+ Меню 
+Алкогольные напитки и пиво 
+Alcoholic drinks and beer 
+Draft beer
+Stella Artois
+light
+0,3 l.
+290 
+0,5 l.
+390 
+Cветлое пиво низового брожения, впервые сваренное в бельгийском городе Лёвен в 1926 году. В настоящее время варится по лицензии компании AB InBev.
+Beer
+Stella Artois
+in bottles
+non-alcoholic
+0,44 l.
+390 
+Безалкогольное пиво, сохраняющее полноту вкуса светлого пива. Этот напиток, изготовленный из отборного ячменного солода, совсем не содержит алкоголя благодаря оригинальной технологии, исключающей выработку спирта на всех этапах производственного процесса.
+Vodka
+Myagkov
+Organic
+0,05 l.
+190 
+0,50 l.
+1700 
+Уникальность этой водки обеспечивает органический спирт из специально отобранной пшеницы, выращиваемой на почвах, обрабатываемых без применения химикатов, и с использованием чистой воды из горной реки; а также настой пшеничных хлебцев на органическом спирте, придающий купажу утончённый хлебный аромат. Для производства продукта выделена отдельная цепь: спирт «Органик» подаётся на линию розлива строго отдельно от других ингредиентов.
+Vodka
+Beluga
+0,05 l.
+390 
+0,50 l.
+3600 
+Флагманский продукт в семье бренда «Beluga», который приобрёл статус классики. Характерное для бренда стремление к совершенству, опыт и чувство вкуса находят отражение в каждой бутылке. Натуральные ингредиенты, спирт из отборных зёрен, чистая артезианская вода, а также тридцатидневный период «отдыха» — всё это обеспечивает водке «Beluga Noble» насыщенный вкус и мягкий аромат.
+Grappa
+Bianca
+50 ml.
+750 
+Итальянский виноградный крепкий алкогольный напиток. Изготавливается путём перегонки остатков винограда (включая стебли и косточки) после его отжимки в процессе изготовления вина. Изначально граппа производилась для утилизации отходов производства по окончании винного сезона, но быстро стала популярна и была запущена в серийное производство.
+Grappa
+Nonino
+50 ml.
+890 
+Nonino — небольшая итальянская компания по производству граппы. Также это имя семьи, которая владеет и управляет брендом Nonino Grappa. Первая винокурня Nonino была основана Орацио Нонино в регионе Фриули на северо-востоке Италии. В настоящий момент семейный бизнес возглавляет Джанола Нонино, которая привела компанию к успеху и сделала её название популярным среди знаменитостей Италии.
+Gin
+Gordon’s
+50 ml.
+590 
+Александр Гордон основал свой спиртзавод в 1769 году. Рецепт его джина остаётся неизменным с момента первого производства и состоит (помимо воды и спирта) из ягод можжевельника, семян кориандра, корней дягиля и ириса, лакрицы, апельсиновой и лимонной цедры. На родине, в Великобритании, Gordon’s продаётся в оригинальных зелёных стеклянных бутылках, в прочих странах для розлива используют бесцветные бутылки.
+Tequila
+Jose Cuervo
+Reposado
+50 ml.
+750 
+В 1758 году дон Хосе Антонио де Куэрво получил земельный грант от короля Фердинанда VI из Испании в город Текила, штат Халиско в Мексике. Там же в 1812 году был основан завод по производству текилы. На данный момент это старейший действующий завод в Латинской Америке. Especial Reposado представляет собой смесь репосадо (выдержанной от 2 до 12 месяцев в дубовых бочках) и более молодой текилы, с добавлением карамельного красителя к готовому продукту для придания ему золотого цвета.
+Rum
+Ron Barcelo
+Blanco
+50 ml.
+390 
+Бесцветный прозрачный ром крепостью 37,5%, который в течение года выдерживается в дубовых бочках из-под бурбона. Напиток благоухает белым перцем и зелёными бананами. Вкус – бананово-коричный, с немного резким, сухим перечным оттенком.
+Rum
+Ron Barcelo
+Anejo
+50 ml.
+450 
+Ром насыщенного янтарного цвета, изготовленный из смеси спиртов разных сроков выдержки (средний возраст – 4 года). Первоначальный вкус – мягкий, с шоколадным оттенком. Затем его сменяют полусухие фруктовые тона, плавно переходящие в острое перечно-табачное послевкусие с вишнёвой нотой.
+Aperitif 
+Martini Bianco 
+100 ml. 
+670 
+Digestiv 
+Amaro Montenegro 
+50 ml. 
+790 
+Digestiv 
+Jagermeister 
+50 ml. 
+650 
+Cognac 
+Gautier V.S. 
+50 ml. 
+890 
+Cognac 
+Gautier V.S.O.P. 
+50 ml. 
+1090 
+Brandy 
+Vecchia Romagna 
+50 ml. 
+590 
+Whiskey 
+Tullamore Dew 
+50 ml. 
+750 
+Whiskey 
+Jack Daniel’s 
+50 ml. 
+750 
+Whiskey 
+Chivas Regal 
+50 ml. 
+890 
+Tequila 
+Jose Cuervo silver
+50 ml. 
+650 
+Cognac 
+Martell V.S. 
+50 ml. 
+990 
+Cognac 
+Martell V.S.O.P. 
+50 ml. 
+1290 
+Whiskey 
+Jameson 
+50 ml. 
+750 
+Liquor 
+Baileys 
+50 ml. 
+650 
+Liquor 
+Cointreau 
+50 ml. 
+650 
+Liquor 
+Sambuca 
+50 ml. 
+490 
+Liquor 
+Kahlua 
+50 ml. 
+590 
+Liquor 
+Limoncello 
+50 ml. 
+490 
+Мы не продаём алкоголь лицам моложе 18 лет
+We don't sell alcohol to persons under 18
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_drinks.html =====
+TITLE: Напитки — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/drinks/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Напитки'), ('h4', 'Чай Облепиховый Облепиха, мёд, апельсин, корица, гвоздика, лимон, мята (0,5\xa0l.)Buckthorn tea490'), ('h4', 'Чай Имбирный Имбирь, мёд, апельсиновый фреш, лимон, мята (0,5\xa0l.)Ginger tea490'), ('h4', 'Чай Облепиха-Имбирь Облепиха, имбирь, мёд, апельсин, корица, гвоздика, лимон (0,5\xa0l.)Buckthorn-ginger tea490'), ('h4', 'Чай Каркаде с\xa0клюквой, апельсином\xa0и корицей Сладковато-пряный напиток из\xa0высушенных цветков суданской розы (0,5\xa0l.)Carcade tea with\xa0cranberries, orange\xa0and cinnamon490'), ('h4', 'Малина с\xa0мятой (травяной чай) Чайный напиток на\xa0основе смеси из\xa0измельчённых цветков гибискуса, листов мяты, малины, смородины, брусники, лепестков чайной розы\xa0и подсолнечника, ягод малины\xa0и кусочков яблока (0,5\xa0l.)Raspberry with\xa0mint (herbal tea)490'), ('h4', 'Чёрный чай классический (Китай) Классический утренний чай, насыщенный\xa0и крепкий (0,5\xa0l.)Black tea (China) Classical morning tea, rich\xa0and strong490'), ('h4', '«Эрл Грей» Чай с\xa0деликатным цитрусовым оттенком бергамота (0,5\xa0l.)Earl Grey Tea with\xa0delicate citrus touch of\xa0bergamot490'), ('h4', 'Чай с\xa0чабрецом Пряный чай с\xa0листочками сушёного горного чабреца (0,5\xa0l.)Tea with\xa0thyme Spicy tea with\xa0dried leaves of\xa0mountain thyme490'), ('h4', '«Венецианская ночь» Цейлонский чай с\xa0кусочками клубники, ежевики, малины\xa0и красной смородины (0,5\xa0l.)Venice night Ceylon tea with\xa0pieces of\xa0strawberry, raspberry, blackberry, red currant490'), ('h4', '«Таёжный сбор» Чай с\xa0ягодным вкусом\xa0и ароматом с\xa0добавлением листа брусники, ягод черноплодной рябины, красной смородины\xa0и малины. Украшен лепестками календулы\xa0и василька (0,5\xa0l.)Taiga collection Tea with\xa0berry flavor\xa0and aroma with the\xa0addition of\xa0lingonberry leaf, black chokeberry, red currant\xa0and raspberry. Decorated with calendula\xa0and cornflower petals490'), ('h4', '«Сенча Классик» Пикантный японский чай из\xa0листьев раннего сбора с\xa0ярко выраженным травянисто-морским ароматом (0,5\xa0l.)Sencha Classic Spicy Japanese tea with\xa0leaves of\xa0early harvest, strong herbs\xa0and sea aroma490'), ('h4', '«Цветок Жасмина» Свежий зелёный чай с\xa0воздушным ароматом белого жасмина (0,5\xa0l.)Jasmine flower Fresh green tea with\xa0aroma of\xa0white jasmine490'), ('h4', '«Молочный Улун» Необычный зелёный чай с\xa0долгим сливочным послевкусием\xa0и многогранным медово-цветочным букетом (0,5\xa0l.)Milky Oolong Unusual green tea with\xa0a\xa0long creamy aftertaste\xa0and flower\xa0and honey bouquet490'), ('h4', 'Эспрессо (30\xa0ml.)Espresso250'), ('h4', 'Двойной Эспрессо (60\xa0ml.)Double Espresso350'), ('h4', 'Американо (200\xa0ml.)Americano250'), ('h4', 'Макиато (90\xa0ml.)Macchiato290'), ('h4', 'Капучино (280\xa0ml.)Cappuccino350'), ('h4', 'Имбирный кофе (200\xa0ml.)Ginger coffee320'), ('h4', 'Латте (220\xa0ml.)Latte320'), ('h4', 'Латте с\xa0сиропом (220\xa0ml.)Latte with\xa0syrup320'), ('h4', 'Флэт уайт (250\xa0ml.)Flat white350'), ('h4', 'Лимонад классический (450\xa0ml. / 1000\xa0ml.)Classic lemonade390 / 690'), ('h4', 'Природная минеральная вода Газированная / Без газа (500\xa0ml.)Natural mineral water Sparkling / Still350'), ('h4', 'Сок в\xa0ассортименте (250\xa0ml.)Juices260'), ('h4', 'Газированная вода (в\xa0стеклянных бутылках) Напитки Evervess со вкусами: кола, кола лайт, апельсин, лемон-лайм, тоник (250\xa0ml.)Evervess Cola, Cola Light, Orange, Lemon-lime, Tonic390'), ('h4', 'Домашний клюквенный морс (250\xa0ml. / 1000\xa0ml.)Homemade Cranberry fruit drink190 / 690'), ('h4', 'Апельсиновый (250\xa0ml.)Orange490'), ('h4', 'Грейпфрутовый (250\xa0ml.)Grapefruit490'), ('h4', 'Яблочный (250\xa0ml.)Apple490'), ('h4', 'Морковный (250\xa0ml.)Carrot450'), ('h4', 'Мохито безалкогольный Свежая мята, тоник, лимонный сок, тростниковый сироп (450\xa0ml.)Alcohol-free Mojito Fresh mint, tonic, lemon fresh, cane syrup390'), ('h4', 'Мохито безалкогольный с\xa0клубникой Свежая мята, тоник, лимонный сок, тростниковый сироп, клубника (450\xa0ml.)Strawberry alcohol-free Mojito Fresh mint, tonic, lemon fresh, cane syrup, strawberry490'), ('h4', 'Глинтвейн Подогретое сухое красное вино, пряности, апельсин, лимон, яблоки, мёд (280\xa0ml.)Mulled wine690'), ('h4', 'Глинтвейн безалкогольный Клюквенный морс, чёрная смородина, специи, мёд, яблоко, лимон, апельсин (280\xa0ml.)Non-alcoholic mulled wine290'), ('h4', 'Апероль Спритц «Апероль», сухое игристое вино, минеральная вода, апельсин (200\xa0ml.)Aperol Spritz Aperol, dry sparkling wine, mineral water, orange890'), ('h4', 'Мохито Ром, свежая мята, тоник, лимонный сок, тростниковый сироп (450\xa0ml.)Mojito Rum, mint, tonic, lemon juice, cane syrup690'), ('h4', 'Мохито с\xa0клубникой Ром, тоник, лимонный сок, тростниковый сироп, клубничное пюре (450\xa0ml.)Strawberry Mojito Rum, strawberry, tonic, lemon juice, cane syrup790'), ('h4', 'Мартини Фиеро\xa0& Тоник Мартини Фиеро, тоник (200\xa0ml.)Martini Fiero & Tonic Martini Fiero, Tonic590'), ('h4', 'Космополитен Водка, «Трипл Сек», сироп для\xa0коктейлей, лимон (120\xa0ml.)Сosmopolitan Vodka, Triple Sec, cane syrup, lemon480'), ('h4', 'Май Тай Ром, «Трипл Сек», сироп для\xa0коктейлей, лайм, лимон (250\xa0ml.)Mai Tai Rum, Triple Sec, cane syrup, lime, lemon690'), ('h4', 'Кир Рояль Сухое игристое вино, смородиновый ликёр (150\xa0ml.)Kir Royal Dry sparkling wine, blackcurrant liqueur790'), ('h4', 'Кайпиринья «Кашаса», лайм, тростниковый сироп (110\xa0ml.)Сaipirinha Cachaca, lime, cane syrup790'), ('h4', 'Чай «Лонг Айленд» Водка, джин, ром, «Трипл Сек», текила, кола, лимонный сок (200\xa0ml.)Long Island Iced Tea Vodka, gin, rum, Triple Sec, tequila, Evervess cola, lemon juice790'), ('h4', 'Маргарита «Трипл Сек», текила, лимонный сок, сироп для\xa0коктейлей (150\xa0ml.)Margarita Triple Sec, tequila, lemon juice, syrup790'), ('h4', 'Пина-Колада Ром, кокосовый сироп, сливки, ананасовый сок (200\xa0ml.)Pina Colada Rum, coconut syrup, cream, pineapple juice650'), ('h4', 'Текила Санрайз Текила, апельсиновый сок, сироп для\xa0коктейлей (200\xa0ml.)Tequila Sunrise Tequila, orange juice, syrup590'), ('h4', 'Б-52 «Калуа», «Куантро», «Бейлис» (45\xa0ml.)B-52 «Kahlua», «Cointreau», «Baileys»590'), ('h4', 'Кровавая Мери Водка, томатный сок, соус «Табаско» (200\xa0ml.)Bloody Mary Vodka, tomato juice, sauce Tabasco490'), ('h4', 'Дайкири Ром, лимонный сок, сироп для\xa0коктейлей (100\xa0ml.)Daiquiri Rum, lemon juice, syrup490'), ('h4', 'Ром-кола Ром, кола (200\xa0ml.)Rum-cola Rum, Evervess cola470'), ('h4', 'Джин Босфорд\xa0& Тоник (200\xa0ml.)Bosford & Tonic590'), ('h4', 'Мартини Оранж Мартини «Bianco», апельсиновый сок (200\xa0ml.)Martini Orange Martini «Bianco», orange juice630')]
+IMGS(23), no-alt: 11
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Напитки — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Напитки
+ Меню 
+ КофеCoffee
+ НапиткиDrinks
+ СокиFreshes
+ КоктейлиCocktails
+Согревающий чай
+Warming tea
+Чай Облепиховый Облепиха, мёд, апельсин, корица, гвоздика, лимон, мята (0,5 l.)
+Buckthorn tea
+490 
+Чай Имбирный Имбирь, мёд, апельсиновый фреш, лимон, мята (0,5 l.)
+Ginger tea
+490 
+Чай Облепиха-Имбирь Облепиха, имбирь, мёд, апельсин, корица, гвоздика, лимон (0,5 l.)
+Buckthorn-ginger tea
+490 
+Чай Каркаде с клюквой, апельсином и корицей Сладковато-пряный напиток из высушенных цветков суданской розы (0,5 l.)
+Carcade tea with cranberries, orange and cinnamon
+490 
+Малина с мятой (травяной чай) Чайный напиток на основе смеси из измельчённых цветков гибискуса, листов мяты, малины, смородины, брусники, лепестков чайной розы и подсолнечника, ягод малины и кусочков яблока (0,5 l.)
+Raspberry with mint (herbal tea)
+490 
+Согревающий чай «Каркаде» с клюквой, апельсином и корицей
+Согревающий чай «Малина с мятой» ( трявяной чай )
+Чёрный листовой чай
+Black leaf tea
+Чёрный чай классический (Китай) Классический утренний чай, насыщенный и крепкий (0,5 l.)
+Black tea (China) Classical morning tea, rich and strong
+490 
+«Эрл Грей» Чай с деликатным цитрусовым оттенком бергамота (0,5 l.)
+Earl Grey Tea with delicate citrus touch of bergamot
+490 
+Чай с чабрецом Пряный чай с листочками сушёного горного чабреца (0,5 l.)
+Tea with thyme Spicy tea with dried leaves of mountain thyme
+490 
+«Венецианская ночь» Цейлонский чай с кусочками клубники, ежевики, малины и красной смородины (0,5 l.)
+Venice night Ceylon tea with pieces of strawberry, raspberry, blackberry, red currant
+490 
+«Таёжный сбор» Чай с ягодным вкусом и ароматом с добавлением листа брусники, ягод черноплодной рябины, красной смородины и малины. Украшен лепестками календулы и василька (0,5 l.)
+Taiga collection Tea with berry flavor and aroma with the addition of lingonberry leaf, black chokeberry, red currant and raspberry. Decorated with calendula and cornflower petals
+490 
+Чёрный классический листовой чай (Китай)
+Чёрный листовой чай «Эрл Грей»
+Чёрный листовой чай с чабрецом
+Чёрный листовой чай «Венецианская ночь»
+Чёрный листовой чай «Таёжный сбор»
+Зелёный листовой чай
+Green leaf tea
+«Сенча Классик» Пикантный японский чай из листьев раннего сбора с ярко выраженным травянисто-морским ароматом (0,5 l.)
+Sencha Classic Spicy Japanese tea with leaves of early harvest, strong herbs and sea aroma
+490 
+«Цветок Жасмина» Свежий зелёный чай с воздушным ароматом белого жасмина (0,5 l.)
+Jasmine flower Fresh green tea with aroma of white jasmine
+490 
+«Молочный Улун» Необычный зелёный чай с долгим сливочным послевкусием и многогранным медово-цветочным букетом (0,5 l.)
+Milky Oolong Unusual green tea with a long creamy aftertaste and flower and honey bouquet
+490 
+Зелёный листовой чай «Сенча Классик»
+Зелёный листовой чай «Цветок Жасмина»
+Зелёный листовой чай «Молочный Улун»
+Кофе
+Coffee
+Эспрессо (30 ml.)
+Espresso
+250 
+Двойной Эспрессо (60 ml.)
+Double Espresso
+350 
+Американо (200 ml.)
+Americano
+250 
+Макиато (90 ml.)
+Macchiato
+290 
+Капучино (280 ml.)
+Cappuccino
+350 
+Имбирный кофе (200 ml.)
+Ginger coffee
+320 
+Латте (220 ml.)
+Latte
+320 
+Латте с сиропом (220 ml.)
+Latte with syrup
+320 
+Флэт уайт (250 ml.)
+Flat white
+350 
+Капучино
+Прохладительные напитки
+Cooling drinks
+Лимонад классический (450 ml. / 1000 ml.)
+Classic lemonade
+390 / 690 
+Безалкогольные напитки
+Alcohol-free drinks
+Природная минеральная вода Газированная / Без газа (500 ml.)
+Natural mineral water Sparkling / Still
+350 
+Сок в ассортименте (250 ml.)
+Juices
+260 
+Газированная вода (в стеклянных бутылках) Напитки Evervess со вкусами: кола, кола лайт, апельсин, лемон-лайм, тоник (250 ml.)
+Evervess Cola, Cola Light, Orange, Lemon-lime, Tonic
+390 
+Домашний клюквенный морс (250 ml. / 1000 ml.)
+Homemade Cranberry fruit drink
+190 / 690 
+Свежевыжатые соки
+Freshes
+Апельсиновый (250 ml.)
+Orange
+490 
+Грейпфрутовый (250 ml.)
+Grapefruit
+490 
+Яблочный (250 ml.)
+Apple
+490 
+Морковный (250 ml.)
+Carrot
+450 
+Безалкогольные коктейли
+Alcohol-free cocktails
+Мохито безалкогольный Свежая мята, тоник, лимонный сок, тростниковый сироп (450 ml.)
+Alcohol-free Mojito Fresh mint, tonic, lemon fresh, cane syrup
+390 
+Мохито безалкогольный с клубникой Свежая мята, тоник, лимонный сок, тростниковый сироп, клубника (450 ml.)
+Strawberry alcohol-free Mojito Fresh mint, tonic, lemon fresh, cane syrup, strawberry
+490 
+Глинтвейн
+Mulled wine
+Глинтвейн Подогретое сухое красное вино, пряности, апельсин, лимон, яблоки, мёд (280 ml.)
+Mulled wine
+690 
+Глинтвейн безалкогольный Клюквенный морс, чёрная смородина, специи, мёд, яблоко, лимон, апельсин (280 ml.)
+Non-alcoholic mulled wine
+290 
+Глинтвейн классический
+Алкогольные коктейли
+Cocktails
+Апероль Спритц «Апероль», сухое игристое вино, минеральная вода, апельсин (200 ml.)
+Aperol Spritz Aperol, dry sparkling wine, mineral water, orange
+890 
+Мохито Ром, свежая мята, тоник, лимонный сок, тростниковый сироп (450 ml.)
+Mojito Rum, mint, tonic, lemon juice, cane syrup
+690 
+Мохито с клубникой Ром, тоник, лимонный сок, тростниковый сироп, клубничное пюре (450 ml.)
+Strawberry Mojito Rum, strawberry, tonic, lemon juice, cane syrup
+790 
+Мартини Фиеро & Тоник Мартини Фиеро, тоник (200 ml.)
+Martini Fiero & Tonic Martini Fiero, Tonic
+590 
+Космополитен Водка, «Трипл Сек», сироп для коктейлей, лимон (120 ml.)
+Сosmopolitan Vodka, Triple Sec, cane syrup, lemon
+480 
+Май Тай Ром, «Трипл Сек», сироп для коктейлей, лайм, лимон (250 ml.)
+Mai Tai Rum, Triple Sec, cane syrup, lime, lemon
+690 
+Кир Рояль Сухое игристое вино, смородиновый ликёр (150 ml.)
+Kir Royal Dry sparkling wine, blackcurrant liqueur
+790 
+Кайпиринья «Кашаса», лайм, тростниковый сироп (110 ml.)
+Сaipirinha Cachaca, lime, cane syrup
+790 
+Чай «Лонг Айленд» Водка, джин, ром, «Трипл Сек», текила, кола, лимонный сок (200 ml.)
+Long Island Iced Tea Vodka, gin, rum, Triple Sec, tequila, Evervess cola, lemon juice
+790 
+Маргарита «Трипл Сек», текила, лимонный сок, сироп для коктейлей (150 ml.)
+Margarita Triple Sec, tequila, lemon juice, syrup
+790 
+Пина-Колада Ром, кокосовый сироп, сливки, ананасовый сок (200 ml.)
+Pina Colada Rum, coconut syrup, cream, pineapple juice
+650 
+Текила Санрайз Текила, апельсиновый сок, сироп для коктейлей (200 ml.)
+Tequila Sunrise Tequila, orange juice, syrup
+590 
+Б-52 «Калуа», «Куантро», «Бейлис» (45 ml.)
+B-52 «Kahlua», «Cointreau», «Baileys»
+590 
+Кровавая Мери Водка, томатный сок, соус «Табаско» (200 ml.)
+Bloody Mary Vodka, tomato juice, sauce Tabasco
+490 
+Дайкири Ром, лимонный сок, сироп для коктейлей (100 ml.)
+Daiquiri Rum, lemon juice, syrup
+490 
+Ром-кола Ром, кола (200 ml.)
+Rum-cola Rum, Evervess cola
+470 
+Джин Босфорд & Тоник (200 ml.)
+Bosford & Tonic
+590 
+Мартини Оранж Мартини «Bianco», апельсиновый сок (200 ml.)
+Martini Orange Martini «Bianco», orange juice
+630 
+Мы не продаём алкоголь лицам моложе 18 лет
+We don't sell alcohol to persons under 18
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-01.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-01/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Овощ\xadной салат «Вене\xadция»Бакла\xadжаны, поми\xadдоры, огурцы, лук порей, фасоль, сладкий лук, маслины, майонез, чеснок, красный лук.  ( 260 гр. ) Venice vegetable saladEggplant, tomatoes, cucumbers, leek, beans, sweet onion, olives, mayonnaise, garlic, red onion590'), ('h4', 'Салат по-дере\xadвенскиПоми\xadдоры, свежие огурцы, редис, сладкий лук, кинза, зелёный базилик, оливко\xadвое масло.  ( 300 гр. ) Village saladTomatoes, fresh cucumbers, radish, sweet onion, cilantro, green basil, olive oil590'), ('h4', 'Салат с\xa0баклажанами\xa0и помидорами590'), ('h4', 'Салат «Грече\xadский»Поми\xadдоры, огурцы, брынза, болгар\xadский перец, лук, оливки, салат латук, олив\xadковое масло.  ( 300 гр. ) Greek saladTomatoes, cucumbers, cheese, sweet pepper, onion, olives, lettuce, olive oil690'), ('h4', 'Салат из\xa0кури\xadной печени с\xa0белы\xadми грибамиСалат латук, салат романо, печень куриная, белые грибы, поми\xadдоры Черри, масло олив\xadковое, чеснок, красное вино.  ( 300 гр. ) Chicken liver salad with\xa0mushroomsLettuce, romano lettuce, chicken liver, mushrooms, cherry tomatoes, garlic, olive oil, red wine1050'), ('h4', 'Салат «Це\xadзарь» с\xa0кури\xadным филеСалат романо, салат айсберг, куриное филе, сыр Грана Падано, поми\xadдоры Черри, гренки.  ( 270 гр. ) Caesar salad with\xa0chicken filletRomano lettuce, iceberg lettuce, chicken fillet, Grana Padano cheese, cherry tomatoes, croutons890'), ('h4', 'Салат «Це\xadзарь» с\xa0кревет\xadкамиСалат романо, салат айсберг, креветки, сыр Грана Падано, поми\xadдоры Черри, гренки.  ( 270 гр. ) Caesar salad with\xa0shrimpsRomano lettuce, iceberg lettuce, shrimps, Grana Padano cheese, cherry tomatoes, croutons970'), ('h4', 'Тёплый салат «Русти\xadкана»Говяди\xadна, свежие поми\xadдоры, салат латук, салат романо, руккола, базилик, перец болгар\xadский, свежие шампи\xadньоны, соус с\xa0трюфе\xadлями, масло оливко\xadвое, вино.  ( 300 гр. ) Warm salad «Rusticana»Warm beef salad: tomatoes, lettuce, romano lettuce, sweet pepper, arugula, basil, truffle sauce, olive oil, wine, mushrooms1090'), ('h4', 'Салат «Порто\xadбелло»Копчё\xadный лосось, свежие шампи\xadньоны, салат латук, салат лола-росса, свежие огурцы\xa0и поми\xadдоры. По\xa0Ваше\xadму желанию салат заправ\xadляется домаш\xadним майоне\xadзом или маслом.  ( 200 гр. ) Portobello saladSmoked salmon, fresh mushrooms, lettuce, lola-rossa, cucumbers and tomatoes. We can serve it with\xa0mayonnaise\xa0or oil890'), ('h4', 'Салат «Рукола с\xa0креветками»890'), ('h4', 'Салат со\xa0слабо\xadсолёной сёмгойСлабо\xadсолёная сёмга, свежий шпинат, свежие огурцы\xa0и помидоры, апельсины, киноа, лимон, оливко\xadвое масло.  ( 250 гр. ) Salad with\xa0salted salmonSalted salmon, fresh spinach, fresh cucumbers\xa0and tomatoes, oranges, kinoa, lemon, olive oil890'), ('h4', 'Тёплый салат из\xa0море\xadпродук\xadтовКревет\xadки, кальма\xadры, мидии, морской гребе\xadшок, поми\xadдоры Черри, руккола, морковь, чеснок, оливко\xadвое масло.  ( 260 гр. ) Warm seafood saladShrimps, calamaries, mussels, scallops, garlic, cherry tomatoes, arugula, carrot, olive oil1190')]
+IMGS(13), no-alt: 13
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Салаты
+Salads
+Овощ­ной салат «Вене­ция»
+Бакла­жаны, поми­доры, огурцы, лук порей, фасоль, сладкий лук, маслины, майонез, чеснок, красный лук. ( 260 гр. ) 
+Venice vegetable salad
+Eggplant, tomatoes, cucumbers, leek, beans, sweet onion, olives, mayonnaise, garlic, red onion
+590 
+Салат по-дере­венски
+Поми­доры, свежие огурцы, редис, сладкий лук, кинза, зелёный базилик, оливко­вое масло. ( 300 гр. ) 
+Village salad
+Tomatoes, fresh cucumbers, radish, sweet onion, cilantro, green basil, olive oil
+590 
+Салат с баклажанами и помидорами
+590 
+Салат «Грече­ский»
+Поми­доры, огурцы, брынза, болгар­ский перец, лук, оливки, салат латук, олив­ковое масло. ( 300 гр. ) 
+Greek salad
+Tomatoes, cucumbers, cheese, sweet pepper, onion, olives, lettuce, olive oil
+690 
+Салат из кури­ной печени с белы­ми грибами
+Салат латук, салат романо, печень куриная, белые грибы, поми­доры Черри, масло олив­ковое, чеснок, красное вино. ( 300 гр. ) 
+Chicken liver salad with mushrooms
+Lettuce, romano lettuce, chicken liver, mushrooms, cherry tomatoes, garlic, olive oil, red wine
+1050 
+Салат «Це­зарь» с кури­ным филе
+Салат романо, салат айсберг, куриное филе, сыр Грана Падано, поми­доры Черри, гренки. ( 270 гр. ) 
+Caesar salad with chicken fillet
+Romano lettuce, iceberg lettuce, chicken fillet, Grana Padano cheese, cherry tomatoes, croutons
+890 
+Салат «Це­зарь» с кревет­ками
+Салат романо, салат айсберг, креветки, сыр Грана Падано, поми­доры Черри, гренки. ( 270 гр. ) 
+Caesar salad with shrimps
+Romano lettuce, iceberg lettuce, shrimps, Grana Padano cheese, cherry tomatoes, croutons
+970 
+Тёплый салат «Русти­кана»
+Говяди­на, свежие поми­доры, салат латук, салат романо, руккола, базилик, перец болгар­ский, свежие шампи­ньоны, соус с трюфе­лями, масло оливко­вое, вино. ( 300 гр. ) 
+Warm salad «Rusticana»
+Warm beef salad: tomatoes, lettuce, romano lettuce, sweet pepper, arugula, basil, truffle sauce, olive oil, wine, mushrooms
+1090 
+Салат «Порто­белло»
+Копчё­ный лосось, свежие шампи­ньоны, салат латук, салат лола-росса, свежие огурцы и поми­доры. По Ваше­му желанию салат заправ­ляется домаш­ним майоне­зом или маслом. ( 200 гр. ) 
+Portobello salad
+Smoked salmon, fresh mushrooms, lettuce, lola-rossa, cucumbers and tomatoes. We can serve it with mayonnaise or oil
+890 
+Салат «Рукола с креветками»
+890 
+Салат со слабо­солёной сёмгой
+Слабо­солёная сёмга, свежий шпинат, свежие огурцы и помидоры, апельсины, киноа, лимон, оливко­вое масло. ( 250 гр. ) 
+Salad with salted salmon
+Salted salmon, fresh spinach, fresh cucumbers and tomatoes, oranges, kinoa, lemon, olive oil
+890 
+Тёплый салат из море­продук­тов
+Кревет­ки, кальма­ры, мидии, морской гребе­шок, поми­доры Черри, руккола, морковь, чеснок, оливко­вое масло. ( 260 гр. ) 
+Warm seafood salad
+Shrimps, calamaries, mussels, scallops, garlic, cherry tomatoes, arugula, carrot, olive oil
+1190 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-02.html =====
+TITLE: Меню — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-02/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Antipasti(закуска к\xa0вину)690'), ('h4', 'Капрезе(моцарелла с\xa0помидорами)Сыр Моца\xadрелла, поми\xadдоры, руккола, соус Песто, оливко\xadвое масло.  ( 100/110 гр. ) CapreseMozzarella cheese, tomatoes, arugula, Pesto sauce, olive oil890'), ('h4', 'Буррата с\xa0томатамиСыр Буррата, свежие поми\xadдоры, руккола, соус Песто.  ( 150/90 гр. ) Burrata with\xa0tomatoesCheese Burrata, fresh tomatoes, arugula, Pesto sauce990'), ('h4', 'Сырная тарелка ( 180/30/30 гр. ) Cheese plate1190'), ('h4', 'Итальянские мясные деликатесы890'), ('h4', 'Карпа\xadччо из\xa0говя\xadдиныСвежай\xadшая говяжья вырезка, нарезан\xadная тонкими ломти\xadками\xa0и замарино\xadванная в\xa0лимон\xadном соке со\xa0специя\xadми. Подаётся с\xa0сыром Грана Падано\xa0и рукко\xadлой.  ( 190 гр. ) Beef carpaccioSliced fresh beef fillet pickled in\xa0lemon juice with\xa0spices. Served with\xa0Grana Padano cheese\xa0and arugula1190'), ('h4', 'Карпа\xadччо из\xa0сёмгиТонко наре\xadзанная сёмга, масло олив\xadковое, уксус Бальза\xadмико, соус Песто.  ( 180 гр. ) Salmon carpaccioSliced salmon, olive oil, balsamic vinegar, Pesto sauce1190')]
+IMGS(8), no-alt: 8
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню
+ Меню 
+Холодные закуски
+For starter (cold)
+Antipasti
+(закуска к вину)
+690 
+Капрезе
+(моцарелла с помидорами)
+Сыр Моца­релла, поми­доры, руккола, соус Песто, оливко­вое масло. ( 100/110 гр. ) 
+Caprese
+Mozzarella cheese, tomatoes, arugula, Pesto sauce, olive oil
+890 
+Буррата с томатами
+Сыр Буррата, свежие поми­доры, руккола, соус Песто. ( 150/90 гр. ) 
+Burrata with tomatoes
+Cheese Burrata, fresh tomatoes, arugula, Pesto sauce
+990 
+Сырная тарелка
+ ( 180/30/30 гр. ) 
+Cheese plate
+1190 
+Итальянские мясные деликатесы
+890 
+Карпа­ччо из говя­дины
+Свежай­шая говяжья вырезка, нарезан­ная тонкими ломти­ками и замарино­ванная в лимон­ном соке со специя­ми. Подаётся с сыром Грана Падано и рукко­лой. ( 190 гр. ) 
+Beef carpaccio
+Sliced fresh beef fillet pickled in lemon juice with spices. Served with Grana Padano cheese and arugula
+1190 
+Карпа­ччо из сёмги
+Тонко наре­занная сёмга, масло олив­ковое, уксус Бальза­мико, соус Песто. ( 180 гр. ) 
+Salmon carpaccio
+Sliced salmon, olive oil, balsamic vinegar, Pesto sauce
+1190 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-03.html =====
+TITLE: Меню — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-03/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Печёный баклажан с\xa0тома\xadтами\xa0и копчёным сыромОбжаренный на\xa0гриле баклажан с\xa0чесно\xadком\xa0и специями, свежие томаты, соус Песто, сыр Скаморца, мусс на\xa0основе копчёного сыра\xa0и Пармезана, пудра из\xa0маслин, микро\xadзелень.  ( 200 гр. ) Baked eggplant with\xa0tomatoes\xa0and smoked cheeseGrilled eggplant with\xa0garlic\xa0and spices, fresh tomatoes, Pesto sauce, Scamorza cheese, smoked cheese\xa0and Parmesan mousse, olive powder, microgreen870'), ('h4', 'Запечённый камамбер с\xa0клюквенным соусомСыр камамбер, гренки из\xa0пшенично-ржаного хлеба, джем из\xa0клюквы, лимонная пудра, микрозелень.  ( 210 гр. ) Baked camembert with\xa0cranberry sauceCamambert cheese, wheat-rye bread toasts, cranberry jam, lemon powder, microgreen890')]
+IMGS(3), no-alt: 3
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню
+ Меню 
+Горячие закуски
+For starter (hot)
+Печёный баклажан с тома­тами и копчёным сыром
+Обжаренный на гриле баклажан с чесно­ком и специями, свежие томаты, соус Песто, сыр Скаморца, мусс на основе копчёного сыра и Пармезана, пудра из маслин, микро­зелень. ( 200 гр. ) 
+Baked eggplant with tomatoes and smoked cheese
+Grilled eggplant with garlic and spices, fresh tomatoes, Pesto sauce, Scamorza cheese, smoked cheese and Parmesan mousse, olive powder, microgreen
+870 
+Запечённый камамбер с клюквенным соусом
+Сыр камамбер, гренки из пшенично-ржаного хлеба, джем из клюквы, лимонная пудра, микрозелень. ( 210 гр. ) 
+Baked camembert with cranberry sauce
+Camambert cheese, wheat-rye bread toasts, cranberry jam, lemon powder, microgreen
+890 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-04.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-04/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Суп-пюре из\xa0тыквы\xa0/ с\xa0имбирёмТыква, репчатый лук, морковь, тыквенные семечки.  ( 300 гр. ) Pumpkin puree soup\xa0/ with\xa0gingerPumpkin, onion, carrot, pumpkin seeds490'), ('h4', 'Суп-крем грибнойШампиньоны, сливки, репчатый лук, гренки.590'), ('h4', 'Суп из\xa0море\xadпродуктовМорской коктейль, сёмга, треска, свежие поми\xadдоры, зелень, бульон из\xa0мол\xadлюсков.  ( 300 гр. ) Seafood soupSeafood cocktail, salmon, mullet, fresh tomatoes, greens, mollusc broth890'), ('h4', 'Томатный суп с\xa0мидиями по-сицилий\xadски ( 500 гр. ) Tomato mussels soup Sicilian style1090'), ('h4', 'Суп дняДля тех, кто у\xa0нас обедает.Подробности уточняй\xadте у\xa0официан\xadта.  ( 300 гр. ) Soup of\xa0the\xa0dayAsk a\xa0waiter for\xa0details390')]
+IMGS(6), no-alt: 6
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Супы
+Soups
+Суп-пюре из тыквы / с имбирём
+Тыква, репчатый лук, морковь, тыквенные семечки. ( 300 гр. ) 
+Pumpkin puree soup / with ginger
+Pumpkin, onion, carrot, pumpkin seeds
+490 
+Суп-крем грибной
+Шампиньоны, сливки, репчатый лук, гренки.
+590 
+Суп из море­продуктов
+Морской коктейль, сёмга, треска, свежие поми­доры, зелень, бульон из мол­люсков. ( 300 гр. ) 
+Seafood soup
+Seafood cocktail, salmon, mullet, fresh tomatoes, greens, mollusc broth
+890 
+Томатный суп с мидиями по-сицилий­ски
+ ( 500 гр. ) 
+Tomato mussels soup Sicilian style
+1090 
+Суп дня
+Для тех, кто у нас обедает.
+Подробности уточняй­те у официан­та. ( 300 гр. ) 
+Soup of the day
+Ask a waiter for details
+390 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-05.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-05/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Спагетти а-ля ОлиоСпагетти, жгучий перец, оливковое масло, чеснок, оливки, базилик.  ( 250 гр. )Spaghetti all’ olioSpaghetti, pepper, olive oil, garlic, olives, basil590'), ('h4', 'Спагетти с\xa0вялеными помидорами\xa0и куриным филеСпагетти, вяленые помидоры, куриное филе, оливковое масло, базилик, чеснок.  ( 280 гр. )Spaghetti with\xa0sundried tomatoes\xa0and chicken filletSpaghetti, sundried tomatoes, chicken fillet, olive oil, basil, garlic650'), ('h4', 'Спагетти а-ля КарбонареСпагетти, сливки, грудинка, сыр Грана Падано, яйцо, белое вино.  ( 290 гр. )Spaghetti CarbonaraSpaghetti, cream, bacon, Grana Padano cheese, egg, white wine890'), ('h4', 'Спагетти с\xa0продуктами моряСпагетти, томатный соус, кальмары, креветки, мидии, чеснок, белое вино.  ( 320 гр. )Spaghetti with\xa0seafoodSpaghetti, tomato sauce, shrimps, mussels, octopus, white wine, garlic, calamaries1090'), ('h4', 'Спагетти «Чёрная каракатица»Спагетти, ассорти из\xa0морепродуктов, специи, чернила каракатиц, репчатый лук, помидоры, чеснок, белое вино.  ( 320 гр. )Black Cuttlefish spaghettiSpaghetti, seafood mix, spices, cuttlefish ink, onion, tomatoes, garlic, white wine1070'), ('h4', 'Спагетти с\xa0лососем\xa0и красной икройСпагетти, лосось, красная икра, шпинат, помидоры, сливки, чеснок, коньяк.  ( 300 гр. )Spaghetti with\xa0salmon\xa0and red caviarSpaghetti, salmon, red caviar, spinach, tomatoes, cream, garlic, cognac1390'), ('h4', 'Пёрышки с\xa0куриным филе\xa0и брокколи990'), ('h4', 'Пёрышки с\xa0сёмгойПерья, сливки, сёмга, коньяк, помидоры, оливковое масло, чеснок.  ( 310 гр. )Penne with\xa0salmonPenne, cream, salmon, cognac, tomatoes, olive oil, garlic1190'), ('h4', 'Пёрышки «4 сыра»Перья, сливки, Сыр Горгонзола, Грана Падано, Скаморца, Гауда.  ( 300 гр. )Penne «4 cheeses»Penne, cream, Gorgonzola cheese, Grana Padano, Skamortsa, Gouda990'), ('h4', 'Тальятелле с\xa0белыми грибамиТальятелле, сыр Грана Падано, белые грибы, сливочное масло, зелень, сливки, белое вино, чеснок.  ( 290 гр. )Tagliatelle with\xa0mushroomsTagliatelle, Grana Padano cheese, mushrooms, butter, greens, cream, white wine, garlic1050'), ('h4', 'Тальятелле с\xa0рагу Болоньезе790'), ('h4', 'Папарделли с\xa0ягнёнком950'), ('h4', 'Фетучини с\xa0тигровыми креветкамиФетучини, тигровые креветки, помидоры консервированные, чеснок, белое вино, масло оливковое, зелень.  ( 290 гр. )Fettucini with\xa0tiger prawnsFettucini, tiger prawns, tinned tomatoes, garlic, white wine, olive oil, greens950'), ('h4', 'Равиоли с\xa0креветками, спаржей\xa0и красной икрой1190'), ('h4', 'Сыр Пармезан30 гр.90')]
+IMGS(16), no-alt: 16
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Паста
+Pasta
+Спагетти а-ля Олио
+Спагетти, жгучий перец, оливковое масло, чеснок, оливки, базилик. ( 250 гр. )
+Spaghetti all’ olio
+Spaghetti, pepper, olive oil, garlic, olives, basil
+590 
+Спагетти с вялеными помидорами и куриным филе
+Спагетти, вяленые помидоры, куриное филе, оливковое масло, базилик, чеснок. ( 280 гр. )
+Spaghetti with sundried tomatoes and chicken fillet
+Spaghetti, sundried tomatoes, chicken fillet, olive oil, basil, garlic
+650 
+Спагетти а-ля Карбонаре
+Спагетти, сливки, грудинка, сыр Грана Падано, яйцо, белое вино. ( 290 гр. )
+Spaghetti Carbonara
+Spaghetti, cream, bacon, Grana Padano cheese, egg, white wine
+890 
+Спагетти с продуктами моря
+Спагетти, томатный соус, кальмары, креветки, мидии, чеснок, белое вино. ( 320 гр. )
+Spaghetti with seafood
+Spaghetti, tomato sauce, shrimps, mussels, octopus, white wine, garlic, calamaries
+1090 
+Спагетти «Чёрная каракатица»
+Спагетти, ассорти из морепродуктов, специи, чернила каракатиц, репчатый лук, помидоры, чеснок, белое вино. ( 320 гр. )
+Black Cuttlefish spaghetti
+Spaghetti, seafood mix, spices, cuttlefish ink, onion, tomatoes, garlic, white wine
+1070 
+Спагетти с лососем и красной икрой
+Спагетти, лосось, красная икра, шпинат, помидоры, сливки, чеснок, коньяк. ( 300 гр. )
+Spaghetti with salmon and red caviar
+Spaghetti, salmon, red caviar, spinach, tomatoes, cream, garlic, cognac
+1390 
+Пёрышки с куриным филе и брокколи
+990 
+Пёрышки с сёмгой
+Перья, сливки, сёмга, коньяк, помидоры, оливковое масло, чеснок. ( 310 гр. )
+Penne with salmon
+Penne, cream, salmon, cognac, tomatoes, olive oil, garlic
+1190 
+Пёрышки «4 сыра»
+Перья, сливки, Сыр Горгонзола, Грана Падано, Скаморца, Гауда. ( 300 гр. )
+Penne «4 cheeses»
+Penne, cream, Gorgonzola cheese, Grana Padano, Skamortsa, Gouda
+990 
+Тальятелле с белыми грибами
+Тальятелле, сыр Грана Падано, белые грибы, сливочное масло, зелень, сливки, белое вино, чеснок. ( 290 гр. )
+Tagliatelle with mushrooms
+Tagliatelle, Grana Padano cheese, mushrooms, butter, greens, cream, white wine, garlic
+1050 
+Тальятелле с рагу Болоньезе
+790 
+Папарделли с ягнёнком
+950 
+Фетучини с тигровыми креветками
+Фетучини, тигровые креветки, помидоры консервированные, чеснок, белое вино, масло оливковое, зелень. ( 290 гр. )
+Fettucini with tiger prawns
+Fettucini, tiger prawns, tinned tomatoes, garlic, white wine, olive oil, greens
+950 
+Равиоли с креветками, спаржей и красной икрой
+1190 
+Сыр Пармезан
+30 гр.
+90 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-06.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-06/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Лазанья а-ля Бо\xadлоньезеПаста, мясной соус, соус Беша\xadмель, сыр Грана Падано.  ( 320 гр. )Lasagna alla\xa0BolognesePasta, meat sauce, Béchamel sauce, Grana Padano cheese890')]
+IMGS(2), no-alt: 2
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Лазанья домашнего приготовления
+Homemade lasagna
+Лазанья а-ля Бо­лоньезе
+Паста, мясной соус, соус Беша­мель, сыр Грана Падано. ( 320 гр. )
+Lasagna alla Bolognese
+Pasta, meat sauce, Béchamel sauce, Grana Padano cheese
+890 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-07.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-07/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Ризотто с\xa0белы\xadми грибамиРис, белые грибы, сыр Грана Падано, сливки, сливоч\xadное масло, чеснок, белое вино.  ( 280 гр. )Risotto with\xa0mushroomsRice, mushrooms, Grana Padano cheese, cream, butter, garlic, white wine1050'), ('h4', 'Ризотто с\xa0сёмгойРис, свежая сёмга, сливки, зелень, коньяк, масло олив\xadковое, поми\xadдоры, чеснок.  ( 280 гр. )Risotto with\xa0salmonRice, fresh salmon, cream, greens, cognac, olive oil, tomatoes, garlic1190'), ('h4', 'Ризотто с\xa0море\xadпродукта\xadмиРис, ассорти из\xa0море\xadпродук\xadтов, масло олив\xadковое, белое вино, свежие поми\xadдоры, чеснок.  ( 280 гр. )Risotto with\xa0seafoodRice, seafood mix, olive oil, white wine, fresh tomatoes, garlic1090'), ('h4', 'Ризотто «Чёрная карака\xadтица»Рис, ассорти из\xa0море\xadпродук\xadтов, специи, чернила кара\xadкатиц, белое вино, олив\xadковое масло.  ( 280 гр. )Black cuttlefish risottoRice, seafood mix, spices, cuttlefish ink, white wine, olive oil1070'), ('h4', 'Ризотто с\xa0угрём\xa0и Страчателлой1090')]
+IMGS(6), no-alt: 6
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Ризотто
+Risotto
+Ризотто с белы­ми грибами
+Рис, белые грибы, сыр Грана Падано, сливки, сливоч­ное масло, чеснок, белое вино. ( 280 гр. )
+Risotto with mushrooms
+Rice, mushrooms, Grana Padano cheese, cream, butter, garlic, white wine
+1050 
+Ризотто с сёмгой
+Рис, свежая сёмга, сливки, зелень, коньяк, масло олив­ковое, поми­доры, чеснок. ( 280 гр. )
+Risotto with salmon
+Rice, fresh salmon, cream, greens, cognac, olive oil, tomatoes, garlic
+1190 
+Ризотто с море­продукта­ми
+Рис, ассорти из море­продук­тов, масло олив­ковое, белое вино, свежие поми­доры, чеснок. ( 280 гр. )
+Risotto with seafood
+Rice, seafood mix, olive oil, white wine, fresh tomatoes, garlic
+1090 
+Ризотто «Чёрная карака­тица»
+Рис, ассорти из море­продук­тов, специи, чернила кара­катиц, белое вино, олив­ковое масло. ( 280 гр. )
+Black cuttlefish risotto
+Rice, seafood mix, spices, cuttlefish ink, white wine, olive oil
+1070 
+Ризотто с угрём и Страчателлой
+1090 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-08.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-08/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Тигро\xadвые кревет\xadки на грилеТемпурная мука, копчёный сыр, молоко, чеснок, водоросли.  ( 140/40 гр. )Tiger shrimpTempura flour, smoked cheese, milk, garlic, algae890'), ('h4', 'Дорадо на\xa0грилеСвежие огурцы, растительное масло, соевый соус, лимонный сок, укропное масло, зелень.  ( 150/50/20 гр. )Grilled doradoFresh cucumbers, vegetable oil, soy sauce, lemon juice, dill oil, herbs1390'), ('h4', 'Лосось на\xa0гриле ( 135/90 гр. )Salmon on\xa0gril1290'), ('h4', 'Сёмга в\xa0сливочном соусеФиле сёмги, сливки, эстрагон, лимон. Гарнир\xa0- картофель.  ( 100/150/30 гр. )Salmon in\xa0cream sauceSalmon fillet, cream, tarragon, lemon. Garnish\xa0- potatoes1290'), ('h4', 'Треска с\xa0цукини\xa0и вешенками1290'), ('h4', 'Котлеты рыбные890'), ('h4', 'Кальмары с\xa0овощами на\xa0грилеКальмар, цукини, сладкий перец, чеснок, соевый соус.  ( 150/150 гр. )Grilled calamaries with\xa0vegetablesCalamaries, zucchini, sweet pepper, garlic, soy sauce990')]
+IMGS(8), no-alt: 8
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Рыбные горячие блюда
+Fish & Seafoods
+Тигро­вые кревет­ки на гриле
+Темпурная мука, копчёный сыр, молоко, чеснок, водоросли. ( 140/40 гр. )
+Tiger shrimp
+Tempura flour, smoked cheese, milk, garlic, algae
+890 
+Дорадо на гриле
+Свежие огурцы, растительное масло, соевый соус, лимонный сок, укропное масло, зелень. ( 150/50/20 гр. )
+Grilled dorado
+Fresh cucumbers, vegetable oil, soy sauce, lemon juice, dill oil, herbs
+1390 
+Лосось на гриле
+ ( 135/90 гр. )
+Salmon on gril
+1290 
+Сёмга в сливочном соусе
+Филе сёмги, сливки, эстрагон, лимон. Гарнир - картофель. ( 100/150/30 гр. )
+Salmon in cream sauce
+Salmon fillet, cream, tarragon, lemon. Garnish - potatoes
+1290 
+Треска с цукини и вешенками
+1290 
+Котлеты рыбные
+890 
+Кальмары с овощами на гриле
+Кальмар, цукини, сладкий перец, чеснок, соевый соус. ( 150/150 гр. )
+Grilled calamaries with vegetables
+Calamaries, zucchini, sweet pepper, garlic, soy sauce
+990 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-09.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-09/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Скалопине «Панна Фунги»Телятина, сливки, шампиньоны, коньяк. Гарнир - картофель.  ( 140/150/30 гр. )Escalope Panna FungiVeal, cream, mushrooms, cognac. Garnish\xa0- potatoes1290'), ('h4', 'Телячьи щёчкиТелячьи щёчки, репчатый лук, морковь, сельдерей, красное вино. Гарнир\xa0- картофельное пюре.  ( 150/150/50 гр. )Veal cheeksVeal cheeks, onion, carrot, celery, red wine. Garnish\xa0- mashed potatoes990'), ('h4', 'Бефстроганов в\xa0сливочном соусеГовяжья вырезка, кондитерские сливки, репчатый лук, растительное масло, шампиньоны, сметана, белое вино, картофельное пюре.  ( 250/150/30 гр. )Beef Stroganoff in\xa0creamy sauceBeef fillet, cream, onion, mushrooms, sour cream, white wine, mashed potatoes1190'), ('h4', 'Филе говядины «4\xa0перца»Говяжья вырезка, сливки, перец чёрный, перец зелёный, перец розовый, перец белый, картофель.  ( 150/150 гр. )Beef fillet 4\xa0peppersBeef fillet, cream, black pepper, green pepper, white pepper, pink pepper, potatoes1490'), ('h4', 'Филе говядины с\xa0ГоргонзолойГовяжья вырезка, сыр Горгонзола, белое вино, сливки. Гарнир - картофель печёный.  ( 150/150 гр. )Beef fillet with\xa0GorgonzolaBeef fillet, Gorgonzola cheese, white wine, cream. Garnish\xa0– baked potatoes1490'), ('h4', 'Миньоны из\xa0свиной вырезки на\xa0гриле с\xa0перечным джемомМолодая свиная вырезка, маринованная в\xa0оливковом масле\xa0и соевом соусе со\xa0специями.  ( 150/15/25 гр. )Grilled minions of\xa0pork fillet with\xa0 peppery jamFresh pork fillet marinated in\xa0olive oil\xa0and soy sauce with\xa0spices890'), ('h4', 'Эскалоп из\xa0свинины с\xa0грибамиСвинина, шампиньоны, сливки. Гарнир - картофель.  ( 140/150/15 гр. )Escalope of\xa0pork\xa0and mushroomsPork, mushrooms, cream. Garnish\xa0- potatoes890'), ('h4', 'Рагу из\xa0баранины по-неаполитански1290'), ('h4', 'Язычки ягнят с\xa0сезонным гарниром1490'), ('h4', 'Утиная грудка с\xa0соусом из лесных ягод890'), ('h4', 'Куриная грудка на\xa0гриле890'), ('h4', 'Котлеты из\xa0индейки690')]
+IMGS(13), no-alt: 13
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Мясные горячие блюда
+Meat
+Скалопине «Панна Фунги»
+Телятина, сливки, шампиньоны, коньяк. Гарнир - картофель. ( 140/150/30 гр. )
+Escalope Panna Fungi
+Veal, cream, mushrooms, cognac. Garnish - potatoes
+1290 
+Телячьи щёчки
+Телячьи щёчки, репчатый лук, морковь, сельдерей, красное вино. Гарнир - картофельное пюре. ( 150/150/50 гр. )
+Veal cheeks
+Veal cheeks, onion, carrot, celery, red wine. Garnish - mashed potatoes
+990 
+Бефстроганов в сливочном соусе
+Говяжья вырезка, кондитерские сливки, репчатый лук, растительное масло, шампиньоны, сметана, белое вино, картофельное пюре. ( 250/150/30 гр. )
+Beef Stroganoff in creamy sauce
+Beef fillet, cream, onion, mushrooms, sour cream, white wine, mashed potatoes
+1190 
+Филе говядины «4 перца»
+Говяжья вырезка, сливки, перец чёрный, перец зелёный, перец розовый, перец белый, картофель. ( 150/150 гр. )
+Beef fillet 4 peppers
+Beef fillet, cream, black pepper, green pepper, white pepper, pink pepper, potatoes
+1490 
+Филе говядины с Горгонзолой
+Говяжья вырезка, сыр Горгонзола, белое вино, сливки. Гарнир - картофель печёный. ( 150/150 гр. )
+Beef fillet with Gorgonzola
+Beef fillet, Gorgonzola cheese, white wine, cream. Garnish – baked potatoes
+1490 
+Миньоны из свиной вырезки на гриле с перечным джемом
+Молодая свиная вырезка, маринованная в оливковом масле и соевом соусе со специями. ( 150/15/25 гр. )
+Grilled minions of pork fillet with  peppery jam
+Fresh pork fillet marinated in olive oil and soy sauce with spices
+890 
+Эскалоп из свинины с грибами
+Свинина, шампиньоны, сливки. Гарнир - картофель. ( 140/150/15 гр. )
+Escalope of pork and mushrooms
+Pork, mushrooms, cream. Garnish - potatoes
+890 
+Рагу из баранины по-неаполитански
+1290 
+Язычки ягнят с сезонным гарниром
+1490 
+Утиная грудка с соусом из лесных ягод
+890 
+Куриная грудка на гриле
+890 
+Котлеты из индейки
+690 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-10.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-10/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Картофель печёный / пюре ( 150 гр. )Baked potatoes / Mashed potatoes150'), ('h4', 'Овощи на\xa0грилеПерец болгарский, свежие помидоры, сельдерей, красный лук, морковь, сезонные овощи (уточняйте у\xa0официанта), специи.  ( 230 гр. )Grilled vegetablesSweet pepper, red onion, celery, potatoes, fresh tomatoes, spices, carrot, seasons vegetables490')]
+IMGS(2), no-alt: 2
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Гарниры
+Garnish
+Картофель печёный / пюре
+ ( 150 гр. )
+Baked potatoes / Mashed potatoes
+150 
+Овощи на гриле
+Перец болгарский, свежие помидоры, сельдерей, красный лук, морковь, сезонные овощи (уточняйте у официанта), специи. ( 230 гр. )
+Grilled vegetables
+Sweet pepper, red onion, celery, potatoes, fresh tomatoes, spices, carrot, seasons vegetables
+490 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-11.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-11/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Брус\xadкетта с\xa0Пармой ( 120 гр. ) Bruschetta with\xa0Parma550'), ('h4', 'Брус\xadкетта со\xa0слабо\xadсолёным лососем\xa0и авокадо ( 120 гр. ) Bruschetta with\xa0a\xa0salted salmon\xa0and avocado590')]
+IMGS(3), no-alt: 3
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Брускетты
+Bruschettas
+Брус­кетта с Пармой
+ ( 120 гр. ) 
+Bruschetta with Parma
+550 
+Брус­кетта со слабо­солёным лососем и авокадо
+ ( 120 гр. ) 
+Bruschetta with a salted salmon and avocado
+590 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-12.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-12/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'ФокаччаИтальян\xadский хлеб с\xa0олив\xadковым маслом\xa0и специя\xadми.  ( 140 гр. )FocacciaItalian bread with\xa0olive oil\xa0and spices270'), ('h4', 'Фокачча с\xa0чесно\xadком ( 140 гр. )Focaccia with\xa0garlic270'), ('h4', 'Фокачча с\xa0розма\xadрином ( 140 гр. )Focaccia with\xa0rosemary270'), ('h4', 'Фокачча с\xa0сыром Грана Падано ( 140 гр. )Focaccia with\xa0Grana Padano cheese290'), ('h4', 'Фокачча с\xa0луком\xa0и сыром Грана Падано ( 140 гр. )Focaccia with\xa0Grana Padano cheese\xa0and onion290'), ('h4', 'Фокачча с\xa0кунжу\xadтом\xa0и сыром Грана Падано ( 140 гр. )Focaccia with\xa0sesame\xa0and Grana Padano cheese290')]
+IMGS(7), no-alt: 7
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Фокачча
+Focaccia
+Фокачча
+Итальян­ский хлеб с олив­ковым маслом и специя­ми. ( 140 гр. )
+Focaccia
+Italian bread with olive oil and spices
+270 
+Фокачча с чесно­ком
+ ( 140 гр. )
+Focaccia with garlic
+270 
+Фокачча с розма­рином
+ ( 140 гр. )
+Focaccia with rosemary
+270 
+Фокачча с сыром Грана Падано
+ ( 140 гр. )
+Focaccia with Grana Padano cheese
+290 
+Фокачча с луком и сыром Грана Падано
+ ( 140 гр. )
+Focaccia with Grana Padano cheese and onion
+290 
+Фокачча с кунжу­том и сыром Грана Падано
+ ( 140 гр. )
+Focaccia with sesame and Grana Padano cheese
+290 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-14.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-14/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', 'Пицца «Маргарита»Томатный соус, оливковое масло, Моцарелла, специи.  ( 350 гр. )MargaritaTomato sauce, olive oil, Mozzarella, spices650'), ('h4', 'Пицца «Дьявола»Томатный соус, оливковое масло, Моцарелла, пикантная колбаса, специи.  ( 330 гр. )DiavolaTomato sauce, olive oil, Mozzarella, Salame picante, spices890'), ('h4', 'Пицца с\xa0беконом\xa0и ГранаТоматный соус, оливковое масло, Моцарелла, бекон в/к, сыр Грана Падано, специи.  ( 370 гр. )With\xa0bacon\xa0and Grana cheeseTomato sauce, olive oil, Mozzarella cheese, bacon, Grana Padano cheese, spices890'), ('h4', 'Пицца «Ветчина-грибы»Томатный соус, оливковое масло, Моцарелла, варёная ветчина, шампиньоны, специи.  ( 390 гр. )Ham\xa0and mushroomsTomato sauce, olive oil, Mozzarella cheese, ham, mushrooms, spices890'), ('h4', 'Пицца с\xa0ПрошуттоТоматный соус, оливковое масло, Моцарелла, окорок сыровяленый, специи.  ( 340 гр. )With\xa0prosciutto hamTomato sauce, olive oil, Mozzarella cheese, prosciutto ham, spices990'), ('h4', 'Пицца с\xa0курицей\xa0и перцемТоматный соус, оливковое масло, сыр Моцарелла, куриное филе, болгарский перец, красный лук, перепелиное  яйцо, специи.  ( 450 гр. )Сhicken\xa0and pepperTomato sauce, olive oil, Mozzarella, spices, pepper, quail eggs, chicken fillet, sweet pepper, red onion990'), ('h4', 'Пицца «4 сыра»Оливковое масло, Моцарелла, сыр Грана Падано, Горгонзола, Фонтал, специи.  ( 310 гр. )4\xa0cheeseOlive oil, Mozzarella cheese, Grana Padano cheese, Gorgonzola, Fontal, spices1090'), ('h4', 'Пицца с\xa0Мортаделлой\xa0и сыром Страчателла1190'), ('h4', 'Пицца «Капрезе»Томатный соус, оливковое масло, сыр Моцарелла, руккола, сыр Моцарелла Фиор де\xa0Латте, специи.  ( 390 гр. )CapreseTomato sauce, olive oil, Mozzarella cheese, arugula, spices1090'), ('h4', 'Пицца с\xa0грушейГруша, сыр Горгонзолла, оливковое масло, сыр Моцарелла, грецкие орехи.  ( 350 гр. )Pizza with pearPear, Gorgonzola, olive oil, Mozzarella cheese, walnuts1090')]
+IMGS(11), no-alt: 11
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Пицца
+Pizza
+Пицца «Маргарита»
+Томатный соус, оливковое масло, Моцарелла, специи. ( 350 гр. )
+Margarita
+Tomato sauce, olive oil, Mozzarella, spices
+650 
+Пицца «Дьявола»
+Томатный соус, оливковое масло, Моцарелла, пикантная колбаса, специи. ( 330 гр. )
+Diavola
+Tomato sauce, olive oil, Mozzarella, Salame picante, spices
+890 
+Пицца с беконом и Грана
+Томатный соус, оливковое масло, Моцарелла, бекон в/к, сыр Грана Падано, специи. ( 370 гр. )
+With bacon and Grana cheese
+Tomato sauce, olive oil, Mozzarella cheese, bacon, Grana Padano cheese, spices
+890 
+Пицца «Ветчина-грибы»
+Томатный соус, оливковое масло, Моцарелла, варёная ветчина, шампиньоны, специи. ( 390 гр. )
+Ham and mushrooms
+Tomato sauce, olive oil, Mozzarella cheese, ham, mushrooms, spices
+890 
+Пицца с Прошутто
+Томатный соус, оливковое масло, Моцарелла, окорок сыровяленый, специи. ( 340 гр. )
+With prosciutto ham
+Tomato sauce, olive oil, Mozzarella cheese, prosciutto ham, spices
+990 
+Пицца с курицей и перцем
+Томатный соус, оливковое масло, сыр Моцарелла, куриное филе, болгарский перец, красный лук, перепелиное яйцо, специи. ( 450 гр. )
+Сhicken and pepper
+Tomato sauce, olive oil, Mozzarella, spices, pepper, quail eggs, chicken fillet, sweet pepper, red onion
+990 
+Пицца «4 сыра»
+Оливковое масло, Моцарелла, сыр Грана Падано, Горгонзола, Фонтал, специи. ( 310 гр. )
+4 cheese
+Olive oil, Mozzarella cheese, Grana Padano cheese, Gorgonzola, Fontal, spices
+1090 
+Пицца с Мортаделлой и сыром Страчателла
+1190 
+Пицца «Капрезе»
+Томатный соус, оливковое масло, сыр Моцарелла, руккола, сыр Моцарелла Фиор де Латте, специи. ( 390 гр. )
+Caprese
+Tomato sauce, olive oil, Mozzarella cheese, arugula, spices
+1090 
+Пицца с грушей
+Груша, сыр Горгонзолла, оливковое масло, сыр Моцарелла, грецкие орехи. ( 350 гр. )
+Pizza with pear
+Pear, Gorgonzola, olive oil, Mozzarella cheese, walnuts
+1090 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-15.html =====
+TITLE: Меню  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-15/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню'), ('h4', "ТирамисуТрадиционный итальянский десерт. Бисквитное печенье, пропитанное кофе с\xa0ликёром Beileys. Нежный крем на\xa0основе мягкого сыра «Маскарпоне»\xa0и сливок.  ( 100 гр. )TiramisuThe\xa0traditional Italian dessert. Biscuits soaked in\xa0coffee with\xa0Bailey's liqueur, soft cream based on\xa0mascarpone cheese\xa0and cream570"), ('h4', 'Профитроли3\xa0шт. Миниатюрные эклеры, начинённые заварным кремом со\xa0сливками.  ( 115 гр. )ProfiterolesSmall eclairs, stuffed with\xa0custard cream590'), ('h4', 'ЧизкейкКлассический сливочный чизкейк из\xa0сливочного сыра.  ( 160 гр. )CheesecakeClassic creamy cheesecake590'), ('h4', 'Морковный тортМорковный бисквит с\xa0добавлением нежного сметанно-сливочного крема.  ( 120 гр. )Carrot pieCarrot biscuits with\xa0the\xa0addition of\xa0tender sour cream sauce490'), ('h4', 'Чернично-миндальный пирогПесочный корж с\xa0черникой, запечённый с\xa0миндальным кремом.  ( 120 гр. )Almond\xa0and blueberry pieShortcake with\xa0blueberry\xa0and almond cream490'), ('h4', 'ПанакотаТрадиционный итальянский молочно-сливочный десерт с\xa0натуральной ванилью.  ( 150 гр. )PanakotaThe\xa0traditional Italian butter dessert with\xa0natural vanilla490'), ('h4', 'Шоколадный тортНежное сочетание шоколадного бисквита с\xa0грецким орехом, трюфельным кремом\xa0и пралине.  ( 130 гр. )Chocolate cakeChocolate cake with\xa0walnuts, truffle cream\xa0and praline590'), ('h4', 'Крем-брюлеЗапечённый сливочный крем с\xa0карамелью.  ( 160 гр. )Creme BruleeBaked butter cream with\xa0caramel590'), ('h4', 'Грушевый пирогСочетание сочных груш с\xa0карамелью\xa0и грецким орехом в\xa0нежном миндальном тесте.  ( 165 гр. )Pear pieThe\xa0combination of\xa0juicy pears with\xa0caramel\xa0and walnut in\xa0almond pastry590'), ('h4', 'Клубничный суп с\xa0мороженымКлубничное пюре, мороженое, миндальные лепестки, мята.  ( 250 гр. )Strawberry soup with ice-creamStrawberry soup, an ice-cream, almond petals\xa0and mint590'), ('h4', 'Торт Наполеон590'), ('h4', 'Авторский десерт «Павлова» с\xa0облепихой590'), ('h4', 'Домашнее мороженое «Венеция»(цена за 1 шарик).230'), ('h4', 'МороженоеПри производстве мороженого используются только фрукты\xa0и натуральные ингредиенты (цена за 1 шарик).  ( 35 гр. )Ice-cream and sorbet(price for 1 ball)250')]
+IMGS(15), no-alt: 15
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню 
+ Меню 
+Десерты
+Desserts
+Тирамису
+Традиционный итальянский десерт. Бисквитное печенье, пропитанное кофе с ликёром Beileys. Нежный крем на основе мягкого сыра «Маскарпоне» и сливок. ( 100 гр. )
+Tiramisu
+The traditional Italian dessert. Biscuits soaked in coffee with Bailey's liqueur, soft cream based on mascarpone cheese and cream
+570 
+Профитроли
+3 шт. Миниатюрные эклеры, начинённые заварным кремом со сливками. ( 115 гр. )
+Profiteroles
+Small eclairs, stuffed with custard cream
+590 
+Чизкейк
+Классический сливочный чизкейк из сливочного сыра. ( 160 гр. )
+Cheesecake
+Classic creamy cheesecake
+590 
+Морковный торт
+Морковный бисквит с добавлением нежного сметанно-сливочного крема. ( 120 гр. )
+Carrot pie
+Carrot biscuits with the addition of tender sour cream sauce
+490 
+Чернично-миндальный пирог
+Песочный корж с черникой, запечённый с миндальным кремом. ( 120 гр. )
+Almond and blueberry pie
+Shortcake with blueberry and almond cream
+490 
+Панакота
+Традиционный итальянский молочно-сливочный десерт с натуральной ванилью. ( 150 гр. )
+Panakota
+The traditional Italian butter dessert with natural vanilla
+490 
+Шоколадный торт
+Нежное сочетание шоколадного бисквита с грецким орехом, трюфельным кремом и пралине. ( 130 гр. )
+Chocolate cake
+Chocolate cake with walnuts, truffle cream and praline
+590 
+Крем-брюле
+Запечённый сливочный крем с карамелью. ( 160 гр. )
+Creme Brulee
+Baked butter cream with caramel
+590 
+Грушевый пирог
+Сочетание сочных груш с карамелью и грецким орехом в нежном миндальном тесте. ( 165 гр. )
+Pear pie
+The combination of juicy pears with caramel and walnut in almond pastry
+590 
+Клубничный суп с мороженым
+Клубничное пюре, мороженое, миндальные лепестки, мята. ( 250 гр. )
+Strawberry soup with ice-cream
+Strawberry soup, an ice-cream, almond petals and mint
+590 
+Торт Наполеон
+590 
+Авторский десерт «Павлова» с облепихой
+590 
+Домашнее мороженое «Венеция»
+(цена за 1 шарик).
+230 
+Мороженое
+При производстве мороженого используются только фрукты и натуральные ингредиенты (цена за 1 шарик). ( 35 гр. )
+Ice-cream and sorbet
+(price for 1 ball)
+250 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_m-2021.html =====
+TITLE: Масленица  — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/m-2021/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Масленица'), ('h4', 'Блины со\xa0сметаной (120/50\xa0гр.)Pancakes with\xa0sour cream250'), ('h4', 'Блины с\xa0джемом (120/50\xa0гр.)Pancakes with\xa0jam250'), ('h4', 'Блины с\xa0ванильным мороженым (120/80\xa0гр.)Pancakes with\xa0vanilla ice cream250'), ('h4', 'Блины с\xa0мясом (240\xa0гр.)Pancakes with\xa0meat320'), ('h4', 'Блины с\xa0сёмгой (120/70\xa0гр.)Pancakes with\xa0salmon490'), ('h4', 'Блины с\xa0красной икрой (120/30\xa0гр.)Pancakes with\xa0red caviar520'), ('h4', 'Сметана (50\xa0гр.)Sour cream50'), ('h4', 'Сгущённое молоко (50\xa0гр.)Condensed milk50'), ('h4', 'Джем (50\xa0гр.)Jam50'), ('h4', 'Ванильное мороженое (50\xa0гр.)Vanilla ice cream50'), ('h4', 'Сёмга слабосолёная (50\xa0гр.)Salted salmon290'), ('h4', 'Красная икра (30\xa0гр.)Red caviar320')]
+IMGS(3), no-alt: 3
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Масленица — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Масленица 
+ Меню 
+Блины
+Pancakes
+Блины со сметаной (120/50 гр.)
+Pancakes with sour cream
+250 
+Блины с джемом (120/50 гр.)
+Pancakes with jam
+250 
+Блины с ванильным мороженым (120/80 гр.)
+Pancakes with vanilla ice cream
+250 
+Блины с мясом (240 гр.)
+Pancakes with meat
+320 
+Блины с сёмгой (120/70 гр.)
+Pancakes with salmon
+490 
+Блины с красной икрой (120/30 гр.)
+Pancakes with red caviar
+520 
+Вкусности к блинам
+Pancake delicies
+Сметана (50 гр.)
+Sour cream
+50 
+Сгущённое молоко (50 гр.)
+Condensed milk
+50 
+Джем (50 гр.)
+Jam
+50 
+Ванильное мороженое (50 гр.)
+Vanilla ice cream
+50 
+Сёмга слабосолёная (50 гр.)
+Salted salmon
+290 
+Красная икра (30 гр.)
+Red caviar
+320 
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== menu_wines.html =====
+TITLE: Винная карта — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/menu/wines/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Винная карта'), ('h3', 'Домашнее вино \nHouse wine'), ('h4', 'House wine (red) \n\n\n150 ml. \n\n\n450 \n\n\n\n\n0,50 l. \n\n\n1390 \n\n\n\n\n1,00 l. \n\n\n2700'), ('h4', 'House wine (white) \n\n\n150 ml. \n\n\n450 \n\n\n\n\n0,50 l. \n\n\n1390 \n\n\n\n\n1,00 l. \n\n\n2700'), ('h3', 'Красные вина \nRed wines'), ('h4', "Montepulciano d'Abruzzo DOC \n\n\n150 ml. \n\n\n790 \n\n\n\n\n0,75 l. \n\n\n3900"), ('h4', 'Valpolicella DOC \n\n\n0,75 l. \n\n\n4700'), ('h4', 'Chianti Riserva DOCG \n\n\n150 ml. \n\n\n790 \n\n\n\n\n0,75 l. \n\n\n3900'), ('h4', 'Pinot Noir \n\n\n0,75 l. \n\n\n4300'), ('h4', 'Rioja DOC \n\n\n0,75 l. \n\n\n3900'), ('h3', 'Розовое вино \nPink wine'), ('h4', 'Pinot Grigio Rosato IGT \n\n\n150 ml. \n\n\n790 \n\n\n\n\n0,75 l. \n\n\n3900'), ('h3', 'Белые вина \nWhite wines'), ('h4', 'Pinot Grigio IGT \n\n\n150 ml. \n\n\n790 \n\n\n\n\n0,75 l. \n\n\n3950'), ('h4', 'Chardonnay IGT \n\n\n0,75 l. \n\n\n3900'), ('h4', 'Sauvignon Blanc \n\n\n150 ml. \n\n\n790 \n\n\n\n\n0,75 l. \n\n\n3950'), ('h3', 'Игристые вина \nSparkling wines'), ('h4', 'Prosecco DOC \n\n\n150 ml. \n\n\n750 \n\n\n\n\n0,75 l. \n\n\n3700'), ('h3', 'Десертные вина \nSweet wines'), ('h4', 'Lambrusco Rosso Dolce IGT \n\n\n0,75 l. \n\n\n2900'), ('h4', 'Lambrusco Bianco Dolce \n\n\n0,75 l. \n\n\n2900')]
+IMGS(15), no-alt: 15
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Винная карта — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Винная карта
+ Меню 
+Домашнее вино 
+House wine 
+House wine (red) 
+150 ml. 
+450 
+0,50 l. 
+1390 
+1,00 l. 
+2700 
+House wine (white) 
+150 ml. 
+450 
+0,50 l. 
+1390 
+1,00 l. 
+2700 
+Красные вина 
+Red wines 
+Montepulciano d'Abruzzo DOC 
+150 ml. 
+790 
+0,75 l. 
+3900 
+Valpolicella DOC 
+0,75 l. 
+4700 
+Chianti Riserva DOCG 
+150 ml. 
+790 
+0,75 l. 
+3900 
+Pinot Noir 
+0,75 l. 
+4300 
+Rioja DOC 
+0,75 l. 
+3900 
+Розовое вино 
+Pink wine 
+Pinot Grigio Rosato IGT 
+150 ml. 
+790 
+0,75 l. 
+3900 
+Белые вина 
+White wines 
+Pinot Grigio IGT 
+150 ml. 
+790 
+0,75 l. 
+3950 
+Chardonnay IGT 
+0,75 l. 
+3900 
+Sauvignon Blanc 
+150 ml. 
+790 
+0,75 l. 
+3950 
+Игристые вина 
+Sparkling wines 
+Prosecco DOC 
+150 ml. 
+750 
+0,75 l. 
+3700 
+Десертные вина 
+Sweet wines 
+Lambrusco Rosso Dolce IGT 
+0,75 l. 
+2900 
+Lambrusco Bianco Dolce 
+0,75 l. 
+2900 
+Мы не продаём алкоголь лицам моложе 18 лет
+We don't sell alcohol to persons under 18
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== stop-covid.html =====
+TITLE: Меню — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/stop-covid/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Меню')]
+IMGS(3), no-alt: 3
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Меню — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Меню
+Уважаемые Дамы и Господа! 
+Мы рады предложить Вам 20% скидку на всё меню с 11:00 до 16:00 по будним дням (с понедельника по пятницу)
+We are happy to offer you a 20% discount on the entire menu from 11:00 to 16:00 on weekdays (monday to friday)
+Основное меню 
+ СалатыSalads
+ Холодные закускиFor starter (cold)
+ Горячие закускиFor starter (hot)
+ БрускеттыBruschettas
+ СупыSoups
+ ПастаPasta
+ ЛазаньяLasagna
+ РизоттоRisotto
+ Рыбные блюдаFish & Seafoods
+ Мясные блюдаMeat
+ ГарнирыGarnish
+ ФокаччаFocaccia
+ ПиццаPizza
+ ДесертыDesserts
+Напитки 
+ НапиткиDrinks
+ Барная картаBar
+ Винная картаWines
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== stop-covid_b.html =====
+TITLE: Барная карта — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/stop-covid/b/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Барная карта'), ('h3', 'Алкогольные напитки\xa0и пиво \nAlcoholic drinks\xa0and beer'), ('h4', 'Draft beer \nBudweiser Budwar light \n\n\n\n0,3 l. \n\n\n250 \n\n\n\n\n0,5 l. \n\n\n350'), ('h4', 'Beer \nClausthaler in\xa0bottles non-alcoholic \n\n\n\n0,33 l. \n\n\n390'), ('h4', 'Vodka \nMyagkov Organic \n\n\n\n0,05 l. \n\n\n150 \n\n\n\n\n0,50 l. \n\n\n990'), ('h4', 'Vodka \nRussian Standard \n\n\n\n0,05 l. \n\n\n150 \n\n\n\n\n0,50 l. \n\n\n990'), ('h4', 'Vodka \nBeluga \n\n\n\n0,05 l. \n\n\n280 \n\n\n\n\n0,50 l. \n\n\n2750'), ('h4', 'Grappa \nBianca \n\n\n\n50 ml. \n\n\n250'), ('h4', 'Gin \nBeefeater \n\n\n\n50 ml. \n\n\n350'), ('h4', 'Tequila \nLeyenda del\xa0Milagro Silver \n\n\n\n50 ml. \n\n\n490'), ('h4', 'Tequila \nLeyenda del\xa0Milagro Reposado \n\n\n\n50 ml. \n\n\n550'), ('h4', 'Rum \nRon Barcelo Blanco \n\n\n\n50 ml. \n\n\n290'), ('h4', 'Rum \nRon Barcelo Anejo \n\n\n\n50 ml. \n\n\n490'), ('h4', 'Aperitif \nMartini Bianco \n\n\n\n100 ml. \n\n\n410'), ('h4', 'Digestiv \nAmaro Montenegro \n\n\n\n50 ml. \n\n\n390'), ('h4', 'Digestiv \nJagermeister \n\n\n\n50 ml. \n\n\n370'), ('h4', 'Cognac \nCamus V.S. \n\n\n\n50 ml. \n\n\n650'), ('h4', 'Cognac \nMartell V.S.O.P. \n\n\n\n50 ml. \n\n\n690'), ('h4', 'Cognac \nHennessy V.S.O.P. \n\n\n\n50 ml. \n\n\n950'), ('h4', 'Whisky \nJameson \n\n\n\n50 ml. \n\n\n390'), ('h4', 'Whisky \nTullamore Dew \n\n\n\n50 ml. \n\n\n390'), ('h4', 'Whisky \nJack Daniel’s \n\n\n\n50 ml. \n\n\n490'), ('h4', 'Whisky \nChivas Regal \n\n\n\n50 ml. \n\n\n590'), ('h4', 'Whisky \nMacallan \n\n\n\n50 ml. \n\n\n890'), ('h4', 'Liquor \nBaileys \n\n\n\n50 ml. \n\n\n350'), ('h4', 'Liquor \nCointreau \n\n\n\n50 ml. \n\n\n350'), ('h4', 'Liquor \nSambuca \n\n\n\n50 ml. \n\n\n280'), ('h4', 'Liquor \nKahlua \n\n\n\n50 ml. \n\n\n390'), ('h4', 'Cocktail \nLimoncello \n\n\n\n50 ml. \n\n\n290')]
+IMGS(28), no-alt: 28
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Барная карта — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Барная карта
+Алкогольные напитки и пиво 
+Alcoholic drinks and beer 
+Draft beer 
+Budweiser Budwar 
+light 
+0,3 l. 
+250 
+0,5 l. 
+350 
+Beer 
+Clausthaler 
+in bottles 
+non-alcoholic 
+0,33 l. 
+390 
+Vodka 
+Myagkov Organic 
+0,05 l. 
+150 
+0,50 l. 
+990 
+Vodka 
+Russian Standard 
+0,05 l. 
+150 
+0,50 l. 
+990 
+Vodka 
+Beluga 
+0,05 l. 
+280 
+0,50 l. 
+2750 
+Grappa 
+Bianca 
+50 ml. 
+250 
+Gin 
+Beefeater 
+50 ml. 
+350 
+Tequila 
+Leyenda del Milagro 
+Silver 
+50 ml. 
+490 
+Tequila 
+Leyenda del Milagro 
+Reposado 
+50 ml. 
+550 
+Rum 
+Ron Barcelo 
+Blanco 
+50 ml. 
+290 
+Rum 
+Ron Barcelo 
+Anejo 
+50 ml. 
+490 
+Aperitif 
+Martini Bianco 
+100 ml. 
+410 
+Digestiv 
+Amaro Montenegro 
+50 ml. 
+390 
+Digestiv 
+Jagermeister 
+50 ml. 
+370 
+Cognac 
+Camus V.S. 
+50 ml. 
+650 
+Cognac 
+Martell V.S.O.P. 
+50 ml. 
+690 
+Cognac 
+Hennessy V.S.O.P. 
+50 ml. 
+950 
+Whisky 
+Jameson 
+50 ml. 
+390 
+Whisky 
+Tullamore Dew 
+50 ml. 
+390 
+Whisky 
+Jack Daniel’s 
+50 ml. 
+490 
+Whisky 
+Chivas Regal 
+50 ml. 
+590 
+Whisky 
+Macallan 
+50 ml. 
+890 
+Liquor 
+Baileys 
+50 ml. 
+350 
+Liquor 
+Cointreau 
+50 ml. 
+350 
+Liquor 
+Sambuca 
+50 ml. 
+280 
+Liquor 
+Kahlua 
+50 ml. 
+390 
+Cocktail 
+Limoncello 
+50 ml. 
+290 
+Мы не продаём алкоголь лицам моложе 18 лет
+We don't sell alcohol to persons under 18
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== stop-covid_w.html =====
+TITLE: Винная карта — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/stop-covid/w/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Винная карта'), ('h3', 'Домашнее вино \nHouse wine'), ('h4', 'House wine (red) \n\n\n150 ml. \n\n\n180 \n\n\n\n\n0,50 l. \n\n\n550 \n\n\n\n\n1,00 l. \n\n\n950'), ('h4', 'House wine (white) \n\n\n150 ml. \n\n\n180 \n\n\n\n\n0,50 l. \n\n\n550 \n\n\n\n\n1,00 l. \n\n\n950'), ('h3', 'Красные вина \nRed wines'), ('h4', "Nero d'Avola DOC \n\n\n150 ml. \n\n\n450 \n\n\n\n\n0,75 l. \n\n\n2200"), ('h4', "Montepulciano d'Abruzzo DOC \n\n\n150 ml. \n\n\n330 \n\n\n\n\n0,75 l. \n\n\n1600"), ('h4', 'Chianti DOCG \n\n\n150 ml. \n\n\n440 \n\n\n\n\n0,75 l. \n\n\n2150'), ('h4', 'Valpolicella DOC \n\n\n0,75 l. \n\n\n2500'), ('h4', 'Chianti Riserva DOCG \n\n\n0,75 l. \n\n\n2500'), ('h4', "Dolcetto d'Alba DOC \n\n\n0,75 l. \n\n\n3300"), ('h4', 'Haut-Medoc AOC \n\n\n0,75 l. \n\n\n2950'), ('h4', 'Baurgogne Pinot Noir AOC \n\n\n0,75 l. \n\n\n3900'), ('h4', 'Rioja DOC \n\n\n0,75 l. \n\n\n2500'), ('h3', 'Розовое вино \nPink wine'), ('h4', 'Pinot Grigio Rosato IGT \n\n\n150 ml. \n\n\n370 \n\n\n\n\n0,75 l. \n\n\n1800'), ('h3', 'Белые вина \nWhite wines'), ('h4', 'Pinot Grigio IGT \n\n\n150 ml. \n\n\n350 \n\n\n\n\n0,75 l. \n\n\n1700'), ('h4', 'Chardonnay IGT \n\n\n150 ml. \n\n\n350 \n\n\n\n\n0,75 l. \n\n\n1700'), ('h4', 'Sauvignon Blanc \n\n\n150 ml. \n\n\n510 \n\n\n\n\n0,75 l. \n\n\n2500'), ('h4', 'Gavi di Gavi DOCG \n\n\n0,75 l. \n\n\n3500'), ('h4', 'Lugana DOC \n\n\n0,75 l. \n\n\n3700'), ('h4', 'Petit Chablis AOC \n\n\n0,75 l. \n\n\n3700'), ('h3', 'Игристые вина \nSparkling wines'), ('h4', 'Pinot Grigio Rose Brut \n\n\n150 ml. \n\n\n450 \n\n\n\n\n0,75 l. \n\n\n2150'), ('h4', 'Prosecco DOC \n\n\n150 ml. \n\n\n430 \n\n\n\n\n0,75 l. \n\n\n2150'), ('h4', 'Asti DOCG \n\n\n150 ml. \n\n\n450 \n\n\n\n\n0,75 l. \n\n\n2150'), ('h3', 'Десертные вина \nSweet wines'), ('h4', 'Lambrusco Rosso Dolce IGT \n\n\n150 ml. \n\n\n310 \n\n\n\n\n0,75 l. \n\n\n1500'), ('h4', 'Lambrusco Bianco Dolce \n\n\n150 ml. \n\n\n310 \n\n\n\n\n0,75 l. \n\n\n1500')]
+IMGS(24), no-alt: 24
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Винная карта — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Винная карта
+Домашнее вино 
+House wine 
+House wine (red) 
+150 ml. 
+180 
+0,50 l. 
+550 
+1,00 l. 
+950 
+House wine (white) 
+150 ml. 
+180 
+0,50 l. 
+550 
+1,00 l. 
+950 
+Красные вина 
+Red wines 
+Nero d'Avola DOC 
+150 ml. 
+450 
+0,75 l. 
+2200 
+Montepulciano d'Abruzzo DOC 
+150 ml. 
+330 
+0,75 l. 
+1600 
+Chianti DOCG 
+150 ml. 
+440 
+0,75 l. 
+2150 
+Valpolicella DOC 
+0,75 l. 
+2500 
+Chianti Riserva DOCG 
+0,75 l. 
+2500 
+Dolcetto d'Alba DOC 
+0,75 l. 
+3300 
+Haut-Medoc AOC 
+0,75 l. 
+2950 
+Baurgogne Pinot Noir AOC 
+0,75 l. 
+3900 
+Rioja DOC 
+0,75 l. 
+2500 
+Розовое вино 
+Pink wine 
+Pinot Grigio Rosato IGT 
+150 ml. 
+370 
+0,75 l. 
+1800 
+Белые вина 
+White wines 
+Pinot Grigio IGT 
+150 ml. 
+350 
+0,75 l. 
+1700 
+Chardonnay IGT 
+150 ml. 
+350 
+0,75 l. 
+1700 
+Sauvignon Blanc 
+150 ml. 
+510 
+0,75 l. 
+2500 
+Gavi di Gavi DOCG 
+0,75 l. 
+3500 
+Lugana DOC 
+0,75 l. 
+3700 
+Petit Chablis AOC 
+0,75 l. 
+3700 
+Игристые вина 
+Sparkling wines 
+Pinot Grigio Rose Brut 
+150 ml. 
+450 
+0,75 l. 
+2150 
+Prosecco DOC 
+150 ml. 
+430 
+0,75 l. 
+2150 
+Asti DOCG 
+150 ml. 
+450 
+0,75 l. 
+2150 
+Десертные вина 
+Sweet wines 
+Lambrusco Rosso Dolce IGT 
+150 ml. 
+310 
+0,75 l. 
+1500 
+Lambrusco Bianco Dolce 
+150 ml. 
+310 
+0,75 l. 
+1500 
+Мы не продаём алкоголь лицам моложе 18 лет
+We don't sell alcohol to persons under 18
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== trattoria-venezia_interior-01.html =====
+TITLE: Траттория на Страстном — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/trattoria-venezia/interior-01/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Траттория на\xa0Страстном')]
+IMGS(17), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Траттория на Страстном — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Траттория на Страстном
++7 (495) 650-60-09
+В уютном итальянском подвальчике расположилась самая первая из семейства Тратторий. Вот уже более пятнадцати лет здесь гостеприимно встречают посетителей, готовят блюда по истинно итальянским рецептам, создают атмосферу весёлого непринуждённого общения. В интерьерах Траттории использованы традиционные для Венеции отделочные материалы и цветовая гамма. Удобные мягкие диваны располагают к неспешному отдыху, а каминный зал словно специально создан для уединённых дружеских посиделок. 70 посадочных мест.
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Траттория Венеция на Страстном
+Как доехать
+55.764865, 37.608383
+г. Москва, Страстной бульвар, дом 4, строение 3
+парковка 0304, пн-вс ( кроме праздников ), 200-380 руб/час
+метро:
+ Пушкинская,
+ Чеховская,
+ Тверская
+Контакты
+ +7 (495) 650-60-09
+ trattoria@venezia.menu
+Часы работы
+11.00 — 23.00 — в будние дни
+12.00 — 23.00 — в выходные и праздники
+Оплата
+ Наличные
+ Карты
+ QR-коды
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== trattoria-venezia_interior-02.html =====
+TITLE: Траттория на 1-м этаже (Страстной) — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/trattoria-venezia/interior-02/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Траттория на 1-м этаже (Страстной)')]
+IMGS(21), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Траттория на 1-м этаже (Страстной) — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Траттория на 1-м этаже (Страстной)
++7 (495) 694-58-62
+После обновления интерьер Траттории предстал перед гостями менее торжественным, зато более уютным и просторным. Сейчас это светлое дружелюбное пространство подчёркнутое остроумными декоративными акцентами от дизайнера Веры Татариновой. Имитационная библиотека, нарочито разноформатные стулья, весёлые настенные итальянские тарелки и другие декоративные элементы создают атмосферу непринуждённого семейного ресторана, из которого никак не хочется уходить. Даже после того как съеден десерт и выпит последний бокал вина всё ещё сохраняется желание остаться и насладиться атмосферой «Венеции». 40 посадочных мест.
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Траттория Венеция на 1-м этаже
+Как доехать
+55.764865, 37.608383
+г. Москва, Страстной бульвар, дом 4, строение 3
+парковка 0304, пн-вс ( кроме праздников ), 200-380 руб/час
+метро:
+ Пушкинская,
+ Чеховская,
+ Тверская
+Контакты
+ +7 (495) 694-58-62
+Часы работы
+17.00 — 23.00 — по пятницам и субботам
+ Наличные
+ Visa
+ Mastercard
+ Карта «Мир»
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== trattoria-venezia_interior-03.html =====
+TITLE: Траттория на Столешниковом — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/trattoria-venezia/interior-03/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Траттория на\xa0Столешниковом')]
+IMGS(16), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Траттория на Столешниковом — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Траттория на Столешниковом
++7 (495) 621-35-35
+Одна из арок в Столешниках ведёт в тихий уютный двор, где расположилась ещё одна Траттория Венеция. Интерьер новой Траттории выполнен дизайнером Верой Татариновой и представляет собой уютное, почти домашнее пространство, в котором венецианские виды представлены в весьма ироничном прочтении. В новой Траттории два зала и один романтический чилаут со столиком для двоих. Атмосфера уюта достигается за счёт естественного освещения, мягкой мебели, обилия натурального дерева и керамики. 70 посадочных мест. В летнее время открыта веранда.
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Траттория Венеция на Столешниковом
+Как доехать
+55.763427, 37.614788
+г. Москва, Столешников переулок, дом 9, строение 3
+метро:
+ Охотный ряд,
+ Кузнецкий мост, Пушкинская,
+ Чеховская
+Контакты
+ +7 (495) 621-35-35
+Часы работы
+11.00 — 23.00 — в будние дни
+12.00 — 23.00 — в выходные и праздники
+Доставка
+12.00 — 21.40 — ежедневно
+ Наличные
+ Visa
+ Mastercard
+ Карта «Мир»
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== trattoria-venezia_interior-04.html =====
+TITLE: Траттория на Маяковской — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/trattoria-venezia/interior-04/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Траттория на\xa0Маяковской')]
+IMGS(16), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Траттория на Маяковской — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Траттория на Маяковской
++7 (499) 250-28-88
+Небольшое, почти камерное заведение на 4-й Тверской-Ямской привлекает гостей теплом и уютом. Традиционный для Южной Европы интерьер разбавлен оригинальными аксессуарами. Приглушённый свет абажуров, обилие дерева и удобные диваны – всё это делает новую Тратторию местом притяжения для любителей комфортного отдыха и дружелюбной атмосферы. Натуральная дровяная печь, находящаяся непосредственно в зале, не только позволяет готовить по-настоящему вкусную пиццу, но и создаёт неповторимый колорит истинно итальянского заведения. Один из двух залов Траттории идеально подходит для проведения торжественных мероприятий. 50 посадочных мест. В летнее время открыта веранда.
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Траттория Венеция на Маяковской
+Как доехать
+55.771585, 37.598923
+г. Москва, 4-я Тверская-Ямская улица, дом 2/11, строение 1
+парковка 0304, пн-вс ( кроме праздников ), 200-380 руб/час
+парковка 3104, пн-сб ( кроме праздников ), 60-150 руб/час
+метро:
+ Маяковская
+Контакты
+ +7 (499) 250-28-88
+Часы работы
+11.00 — 23.00 — в будние дни
+12.00 — 23.00 — в выходные и праздники
+Доставка
+12.00 — 21.40 — ежедневно
+ Наличные
+ Visa
+ Mastercard
+ Карта «Мир»
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
+
+
+===== where.html =====
+TITLE: Адреса и контакты — Траттория Венеция
+DESC: None
+OG: None | None
+CANON: http://venezia.menu/where/ ROBOTS: max-image-preview:large
+HEADINGS: [('h1', 'Траттория Венеция'), ('h2', 'Уголок Италии в\xa0Москве'), ('h2', 'Рубрики'), ('h1', 'Адреса и контакты')]
+IMGS(1), no-alt: 1
+EXT LINKS: ['http://wordpress.org/', 'https://array.is/']
+TEXT:
+Адреса и контакты — Траттория Венеция
+ Skip to content
+ View menu
+ View sidebar
+Траттория Венеция
+Уголок Италии в Москве
+ Меню / Menu / 菜单
+ Адреса и контакты
+e-mail
+phone
+ Найти:
+Рубрики
+Рубрик нет 
+Меню
+Барная карта
+Винная карта
+Напитки
+Адреса и контакты
+Траттория Венеция на Страстном
+Как доехать
+55.764865, 37.608383
+г. Москва, Страстной бульвар, дом 4, строение 3
+метро:
+ Пушкинская,
+ Чеховская,
+ Тверская
+Контакты
+ +7 (495) 650-60-09
+ +7 (495) 694-58-62
+Часы работы
+11.00 — 23.00 — в будние дни
+12.00 — 23.00 — в выходные и праздники
+Траттория Венеция на Столешниковом
+Как доехать
+55.763427, 37.614788
+г. Москва, Столешников переулок, дом 9, строение 3
+метро:
+ Охотный ряд,
+ Кузнецкий мост, Пушкинская,
+ Чеховская
+Контакты
+ +7 (495) 621-35-35
+Часы работы
+11.00 — 23.00 — в будние дни
+12.00 — 23.00 — в выходные и праздники
+Траттория Венеция на Маяковской
+Как доехать
+55.771585, 37.598923
+г. Москва, 4-я Тверская-Ямская улица, дом 2/11, строение 1
+метро:
+ Маяковская
+Контакты
+ +7 (499) 250-28-88
+Часы работы
+11.00 — 23.00 — в будние дни
+12.00 — 23.00 — в выходные и праздники
+ Proudly powered by WordPress
+ | 
+ Theme: editor by Array
